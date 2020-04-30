@@ -1,0 +1,3101 @@
+PT J
+AU Fanning, K
+   Centers, DP
+AF Fanning, Kurt
+   Centers, David P.
+TI Blockchain and Its Coming Impact on Financial Services
+SO JOURNAL OF CORPORATE ACCOUNTING AND FINANCE
+LA English
+DT Article
+AB This article provides insight into how Blockchains work. A block chain or Blockchain is a distributed database that maintains a continuously growing list of data records that are hardened against tampering and revision, even by operators of the data store's nodes. One can view a Blockchain as a public ledger of all transactions that have ever been executed. It is constantly growing as completed blocks are added to previous blocks forming a chain. Importantly, blocks are added to the Blockchain in a linear, chronological order. Each miner gets a copy of the Blockchain when joining the Bitcoin network. The Blockchain they receive has complete and accurate information about the addresses and their balances right from the genesis block to the most recently completed block. (c) 2016 Wiley Periodicals, Inc.
+C1 [Fanning, Kurt; Centers, David P.] Grand Valley State Univ, Allendale, MI 49401 USA.
+RP Fanning, K (reprint author), Grand Valley State Univ, Allendale, MI 49401 USA.
+NR 0
+TC 48
+Z9 49
+U1 15
+U2 259
+PU WILEY PERIODICALS, INC
+PI SAN FRANCISCO
+PA ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
+SN 1044-8136
+EI 1097-0053
+J9 J CORP ACCOUNT FINAN
+JI J. Corp. Account. Financ.
+PD JUL-AUG
+PY 2016
+VL 27
+IS 5
+BP 53
+EP 57
+DI 10.1002/jcaf.22179
+PG 5
+WC Business, Finance
+SC Business & Economics
+GA DP8HM
+UT WOS:000378738900008
+DA 2020-04-21
+ER
+
+PT J
+AU Cai, YF
+   Zhu, D
+AF Cai, Yuanfeng
+   Zhu, Dan
+TI Fraud detections for online businesses: a perspective from blockchain
+   technology
+SO FINANCIAL INNOVATION
+LA English
+DT Article
+DE Blockchain; Fraud detection; Rating fraud; Reputation systems
+ID REPUTATION MECHANISMS; SYSTEM; REVIEWS; TRUST
+AB Background: The reputation system has been designed as an effective mechanism to reduce risks associated with online shopping for customers. However, it is vulnerable to rating fraud. Some raters may inject unfairly high or low ratings to the system so as to promote their own products or demote their competitors.
+   Method: This study explores the rating fraud by differentiating the subjective fraud from objective fraud. Then it discusses the effectiveness of blockchain technology in objective fraud and its limitation in subjective fraud, especially the rating fraud. Lastly, it systematically analyzes the robustness of blockchain-based reputation systems in each type of rating fraud.
+   Results: The detection of fraudulent raters is not easy since they can behave strategically to camouflage themselves. We explore the potential strengths and limitations of blockchain-based reputation systems under two attack goals: ballot-stuffing and bad-mouthing, and various attack models including constant attack, camouflage attack, whitewashing attack and sybil attack. Blockchain-based reputation systems are more robust against bad-mouthing than ballot-stuffing fraud.
+   Conclusions: Blockchain technology provides new opportunities for redesigning the reputation system. Blockchain systems are very effective in preventing objective information fraud, such as loan application fraud, where fraudulent information is fact-based. However, their effectiveness is limited in subjective information fraud, such as rating fraud, where the ground-truth is not easily validated. Blockchain systems are effective in preventing bad mouthing and whitewashing attack, but they are limited in detecting ballot-stuffing under sybil attack, constant attacks and camouflage attack.
+C1 [Cai, Yuanfeng] CUNY, Baruch Coll, Zicklin Sch Business, New York, NY 10021 USA.
+   [Zhu, Dan] Iowa State Univ, Coll Business, Ames, IA 50011 USA.
+RP Zhu, D (reprint author), Iowa State Univ, Coll Business, Ames, IA 50011 USA.
+EM dzhu@iastate.edu
+CR Azari R, 2003, CURRENT SECURITY MAN
+   Ba SL, 2002, MIS QUART, V26, P243, DOI 10.2307/4132332
+   Bolton GE, 2004, MANAGE SCI, V50, P1587, DOI 10.1287/mnsc.1030.0199
+   Bromley DB, 2001, EUR J MARKETING, V35, P316, DOI 10.1108/03090560110382048
+   Cai Y, 2015, P 36 INT C INF SYST
+   Coleman A., 2016, AMAZON BANNED INCENT
+   Dellarocas C., 2000, EC'00. Proceedings of the 2nd ACM Conference on Electronic Commerce, P150, DOI 10.1145/352871.352889
+   Dennis R, 2016, INT J DIGIT SOC, V7, P1123
+   Douceur JR, 2002, LECT NOTES COMPUT SC, V2429, P251, DOI 10.1007/3-540-45748-8_24
+   Driscoll S, 2013, IMPONDERABLETHINGS B
+   Irissappane A. A., 2012, CEUR WORKSHOP P, V872
+   Josang A., 2002, P 15 BLED EL COMM C
+   Khan A, 2015, COMPUT FRAUD SECUR, P16
+   Kim J, 2012, EXPERT SYST APPL, V39, P4013, DOI 10.1016/j.eswa.2011.09.071
+   Krishnakumar K., 2003, INTELLIGENT SYSTEMS
+   Lam S, 2004, 13 INT WWW C, P309
+   Lee JS, 2012, INFORMS J COMPUT, V24, P117, DOI 10.1287/ijoc.1100.0440
+   Lemieux VL, 2016, REC MANAG J, V26, P110, DOI 10.1108/RMJ-12-2015-0042
+   Lindner MV, 2015, AMAZONS RISING TIDE
+   Mayzlin D, 2014, AM ECON REV, V104, P2421, DOI 10.1257/aer.104.8.2421
+   Metzger Miriam J., 2004, J COMPUT-MEDIAT COMM, V9, P4, DOI [10.1111/j.1083-6101.2004.tb00292.x/abstract, DOI 10.1111/J.1083-6101.2004.TB00292.X]
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Park DH, 2007, INT J ELECTRON COMM, V11, P125, DOI 10.2753/JEC1086-4415110405
+   Peck M, 2015, SPECTRUM IEEE
+   PwC, 2015, INF SEC BREACH SURV
+   Resnick P, 2000, COMMUN ACM, V43, P45, DOI 10.1145/355112.355122
+   Resnick P, 2002, ADV APP M-E, V11, P127
+   Schaub A., 2016, 31 IFIP TC 11 INT C
+   Schneider J, 2000, P 2 INT S HANDH UB C
+   Soska K., 2015, 24 USENIX SEC S USEN, P33
+   Sved D, 2014, 19 CO FOUND GUILTY W
+   Tapscott D., 2016, HARVARD BUSINESS REV
+   Vandervort D, 2014, LECT NOTES COMPUT SC, V8438, P33, DOI 10.1007/978-3-662-44774-1_3
+   Yu HF, 2006, ACM SIGCOMM COMP COM, V36, P267, DOI 10.1145/1151659.1159945
+   Zacharia G, 2000, DECIS SUPPORT SYST, V29, P371, DOI 10.1016/S0167-9236(00)00084-1
+NR 35
+TC 22
+Z9 22
+U1 1
+U2 38
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2199-4730
+J9 FINANC INNOV
+JI Financ. Innov.
+PD DEC
+PY 2016
+VL 2
+IS 1
+AR UNSP 20
+DI 10.1186/s40854-016-0039-4
+PG 10
+WC Business, Finance; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA FJ8XI
+UT WOS:000413051500020
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU Treutterer, W
+   Cole, R
+   Grater, A
+   Luddecke, K
+   Neu, G
+   Rapson, C
+   Raupp, G
+   Zehetbauer, T
+AF Treutterer, Wolfgang
+   Cole, Richard
+   Graeter, Alexander
+   Lueddecke, Klaus
+   Neu, Gregor
+   Rapson, Christopher
+   Raupp, Gerhard
+   Zehetbauer, Thomas
+CA ASDEX Upgrade Team
+TI Configuration-defined control algorithms with the ASDEX Upgrade DCS
+SO FUSION ENGINEERING AND DESIGN
+LA English
+DT Article; Proceedings Paper
+CT 10th IAEA Technical Meeting on Control, Data Acquisition, and Remote
+   Participation for Fusion Research
+CY APR 20-24, 2015
+CL Inst Plasma Res, Ahmedabad, INDIA
+SP IAEA
+HO Inst Plasma Res
+DE Plasma control system; Function block; Configurable functionality;
+   Multi-threading
+ID DISCHARGE CONTROL-SYSTEM; FRAMEWORK
+AB The ASDEX Upgrade Discharge Control System (DCS) is a distributed real-time control system executing complex control and monitoring tasks. Up to now, DCS control algorithms have been implemented by coding dedicated application processes with the C++ programming language. Algorithm changes required code modification, compilation and commissioning which only experienced programmers could perform. This was a significant constraint of flexibility for both control system operation and design.
+   The new approach extends DCS with the capability of configuration-defined control algorithms. These are composed of chains of small, configurable standard function blocks providing general purpose functions like algebraic operations, filters, feedback controllers, output limiters and decision logic. In a later phase a graphical editor could help to compose and modify such configuration in a Simulink-like fashion.
+   Building algorithms from standard functions can result in a high number of elements. In order to achieve a similar performance as with C++ coding, it is essential to avoid administrative bottlenecks by design. As a consequence, DCS executes a function block chain in the context of a single real-time thread of an application process. No concurrency issues as in a multi-threaded context need to be considered resulting in strongly simplified signal handling and zero performance overhead for inter-block communication. Instead of signal-driven synchronization, a block scheduler derives the execution sequence automatically from the block dependencies as defined in the configuration. All blocks and connecting signals are instantiated dynamically, based on definitions in a configuration file. Algorithms thus are not defined in the code but only in the configuration.
+   The concept has been developed in view of Simulink block libraries and MARTe General Application Modules (GAM) but extends these with the DCS virtues of distributed computing and multi-threading.
+   With growing diversity of general-purpose blocks the DCS framework will reach an unprecedented degree of universality and flexibility. Configuration-defined algorithms will gradually replace many existing DCS applications. Finally, the concept might also become of interest for the upcoming ITER plasma control system. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Treutterer, Wolfgang; Graeter, Alexander; Neu, Gregor; Rapson, Christopher; Raupp, Gerhard; Zehetbauer, Thomas] Max Planck Inst Plasma Phys, Boltzmannstr 2, D-85748 Garching, Germany.
+   [Cole, Richard; Lueddecke, Klaus] Unltd Comp Syst, Seeshaupter Str 15, D-82393 Iffeldorf, Germany.
+RP Treutterer, W (reprint author), Max Planck Inst Plasma Phys, Boltzmannstr 2, D-85748 Garching, Germany.
+EM Wolfgang.Treutterer@ipp.mpg.de
+OI Rapson, Christopher/0000-0001-7273-4220
+CR AEgis Technologies Group Inc., 2010, ACSLX LANG REF GUID, P25
+   Neto AC, 2010, IEEE T NUCL SCI, V57, P479, DOI 10.1109/TNS.2009.2037815
+   Treutterer W, 2014, FUSION ENG DES, V89, P146, DOI 10.1016/j.fusengdes.2014.01.001
+   Treutterer W, 2013, FUSION ENG DES, V88, P1069, DOI 10.1016/j.fusengdes.2013.03.004
+   Treutterer W, 2012, FUSION ENG DES, V87, P2039, DOI 10.1016/j.fusengdes.2012.01.038
+   Treutterer W, 2010, FUSION ENG DES, V85, P466, DOI 10.1016/j.fusengdes.2010.04.031
+NR 6
+TC 1
+Z9 1
+U1 0
+U2 5
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0920-3796
+EI 1873-7196
+J9 FUSION ENG DES
+JI Fusion Eng. Des.
+PD NOV 15
+PY 2016
+VL 112
+BP 999
+EP 1002
+DI 10.1016/j.fusengdes.2016.04.008
+PG 4
+WC Nuclear Science & Technology
+SC Nuclear Science & Technology
+GA EC1AV
+UT WOS:000387836800156
+DA 2020-04-21
+ER
+
+PT J
+AU Lee, K
+   James, JI
+   Ejeta, TG
+   Kim, HJ
+AF Lee, Kibin
+   James, Joshua I.
+   Ejeta, Tekachew Gobena
+   Kim, Hyoung Joong
+TI ELECTRONIC VOTING SERVICE USING BLOCK-CHALET
+SO JOURNAL OF DIGITAL FORENSICS SECURITY AND LAW
+LA English
+DT Article
+DE Electronic Voting System; Electronic Ballot; Block-chain; Ballot
+   Authentication; e-voting Auditing
+AB Cryptocurrency, and its underlying technologies, has been gaining popularity for transaction management beyond financial transactions. Transaction information is maintained in the block chain, which can be used to audit the integrity of the transaction. The focus on this paper is the potential availability of block-chain technology of other transactional uses. Block-chain is one of the most stable open ledgers that preserves transaction information, and is difficult to forge. Since the information stored in block-chain is not related to personally identifiable information, it has the characteristics of anonymity. Also, the block-chain allows for transparent transaction verification since all information in the block-chain is open to the public. These characteristics are the same as the requirements for a voting system. That is, strong robustness, anonymity, and transparency. In this paper, we propose an electronic voting system as an application of block chain, and describe block-chain based voting at a national level through examples.
+C1 [Lee, Kibin; Kim, Hyoung Joong] Korea Univ, Grad Sch Informat Secur, Seoul 02841, South Korea.
+   [James, Joshua I.] Hallym Univ, Legal Informat & Forens Sci Inst, Gangwon 24252, Chuncheon, South Korea.
+   [Ejeta, Tekachew Gobena] Korea Univ, Dept Cyber Def, Seoul 20841, South Korea.
+RP Lee, K (reprint author), Korea Univ, Grad Sch Informat Secur, Seoul 02841, South Korea.
+EM leekibin@korea.ac.kr; joshua.i.james@hallym.ac.kr; tekachew@korea.ac.kr;
+   khj-@korea.ac.kr
+RI James, Joshua I./B-8082-2018
+OI James, Joshua I./0000-0003-0148-4732
+FU National Research Foundation of KoreaNational Research Foundation of
+   Korea [NRF-2015R1A2A2A01004587]; Korea University
+FX This work was supported by the National Research Foundation of Korea
+   (NRF-2015R1A2A2A01004587). This research was supported by Korea
+   University.
+CR Antonopoulos Andreas M., 2014, MASTERING BITCOIN, P72
+   Braun N., 2006, SWISS E VOTING PILOT
+   Gritzalis D. A., 2012, SECURE ELECT VOTING
+   Kohno T, 2004, P IEEE S SECUR PRIV, P27
+   Kremer S, 2010, LECT NOTES COMPUT SC, V6345, P389, DOI 10.1007/978-3-642-15497-3_24
+   Madise Ulle, 2006, ELECT VOTING, V86
+   Neumann P, 1993, SECURITY CRITERIA EL
+   Rubin AD, 2002, COMMUN ACM, V45, P39, DOI 10.1145/585597.585599
+   Rubin Aviel, 2006, BRAVE NEW BALLOT BAT
+   Schoenmakers B., 1999, Advances in Cryptology - CRYPTO'99. 19th Annual International Cryptology Conference. Proceedings, P148
+NR 10
+TC 10
+Z9 10
+U1 0
+U2 9
+PU ASSOC DIGITAL FORENSICS, SECURITY & LAW
+PI FARMVILLE
+PA 201 HIGH ST, FARMVILLE, VA 23909 USA
+SN 1558-7215
+EI 1558-7223
+J9 J DIGIT FORENSICS SE
+JI J. Digit. Forensics Secur. Law
+PY 2016
+VL 11
+IS 2
+SI SI
+BP 123
+EP 135
+PG 13
+WC Computer Science, Information Systems
+SC Computer Science
+GA EJ7PA
+UT WOS:000393413400009
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Sun, JJ
+   Yan, JQ
+   Zhang, KZK
+AF Sun, Jianjun
+   Yan, Jiaqi
+   Zhang, Kem Z. K.
+TI Blockchain-based sharing services: What blockchain technology can
+   contribute to smart cities
+SO FINANCIAL INNOVATION
+LA English
+DT Article
+DE Smart city; Blockchain; Sharing economy; Internet of Things (IoT); Smart
+   contract
+AB Background: The notion of smart city has grown popular over the past few years. It embraces several dimensions depending on the meaning of the word "smart" and benefits from innovative applications of new kinds of information and communications technology to support communal sharing.
+   Methods: By relying on prior literature, this paper proposes a conceptual framework with three dimensions: (1) human, (2) technology, and (3) organization, and explores a set of fundamental factors that make a city smart from a sharing economy perspective.
+   Results: Using this triangle framework, we discuss what emerging blockchain technology may contribute to these factors and how its elements can help smart cities develop sharing services.
+   Conclusions: This study discusses how blockchain-based sharing services can contribute to smart cities based on a conceptual framework. We hope it can stimulate interest in theory and practice to foster discussions in this area.
+C1 [Sun, Jianjun; Yan, Jiaqi] Nanjing Univ, Sch Informat Management, Nanjing, Jiangsu, Peoples R China.
+   [Zhang, Kem Z. K.] Univ Sci & Technol China, Sch Management, Hefei, Anhui, Peoples R China.
+RP Yan, JQ (reprint author), Nanjing Univ, Sch Informat Management, Nanjing, Jiangsu, Peoples R China.
+EM jiaqiyan@nju.edu.cn
+RI Sanchez-Gomez, Nicolas/K-3758-2014
+FU Jiangsu Social Science Research Foundation [12DDB012]; National Natural
+   Science Foundation of ChinaNational Natural Science Foundation of China
+   [71671174, 71472172]; Fundamental Research Funds for the Central
+   Universities of ChinaFundamental Research Funds for the Central
+   Universities [WK2040160013]
+FX This research is supported by the Research Project 12DDB012 from Jiangsu
+   Social Science Research Foundation, and partially supported by grants
+   from National Natural Science Foundation of China (No. 71671174,
+   71472172) and Fundamental Research Funds for the Central Universities of
+   China (No. WK2040160013).
+CR Agyeman J, 2014, TIMES
+   AlHader M., 2009, COMP INT MOD SIM 200, P93, DOI DOI 10.1109/C5SIM.2009.34
+   [Anonymous], 2015, ECONOMIST
+   [Anonymous], 2015, DEV DEM SAV FUT INT
+   [Anonymous], 2013, ECONOMIST
+   [Anonymous], 2016, ECONOMIST
+   Anthopoulos Leonidas, 2010, 2010 6th International Conference on Intelligent Environments (IE), P301, DOI 10.1109/IE.2010.61
+   Aurigi A, 2005, MAKING DIGITAL CITY
+   Avizienis A, 2004, IEEE T DEPEND SECURE, V1, P11, DOI 10.1109/TDSC.2004.2
+   Batagan Lorena, 2011, Informatica Economica, V15, P80
+   Belk R, 2014, J BUS RES, V67, P1595, DOI 10.1016/j.jbusres.2013.10.001
+   Bhattacherjee A, 2002, J MANAGE INFORM SYST, V19, P211
+   Boulton A., 2011, INT HDB GLOBALIZATIO, P198, DOI 10.4337/9781781001011.00028
+   Caragliu A, 2011, J URBAN TECHNOL, V18, P65, DOI 10.1080/10630732.2011.601117
+   Chourabi H., 2012, 2012 45th Hawaii International Conference on System Sciences (HICSS), P2289, DOI 10.1109/HICSS.2012.615
+   Cocchia A, 2014, PROGR IS, P13, DOI 10.1007/978-3-319-06160-3_2
+   Couclelis H, 2004, ENVIRON PLANN B, V31, P5, DOI 10.1068/b1299
+   DILLAHUNT TR, 2015, P 33 ANN ACM C HUM F, P2285
+   Eisenmann T, 2006, HARVARD BUS REV, V84, P92
+   Ergazakis K., 2004, Journal of Knowledge Management, V8, P5, DOI 10.1108/13673270410558747
+   Forest F, 2009, ROADMAP REAL WORLD I, P325
+   Giffinger R., 2007, SMART CITIES RANKING
+   Giffinger R, 2010, ACE-ARCHIT CITY ENVI, V4, P7
+   Gori P., 2015, SMART CITIES SHARING, V96
+   Hollands R., 2008, CITY, V12, P303, DOI [rg/10.1080/13604810802479126, DOI 10.1080/13604810802479126]
+   ISHIDA T, 2000, DIGITAL CITIES TECHN
+   KAHN M. E., 2006, GREEN CITIES URBAN G
+   Komninos N, 2006, INTELLIGENT ENV, V6, P13
+   Komninos N, 2013, J KNOWL ECON, V4, P119, DOI 10.1007/s13132-012-0083-x
+   Larsen K., 1999, OECD OBSERVER, V217, P73
+   Malek JA, 2009, P 8 WSEAS INT C ED E
+   Malhotra A, 2014, COMMUN ACM, V57, P24, DOI 10.1145/2668893
+   McFarlane C, 2011, LEARNING CITY KNOWLE, V101
+   Morrison Alan, 2016, BLOCKCHAIN SMART CON
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Nam T., 2011, P 12 INT DIG GOV RES, P282, DOI DOI 10.1145/2037556.2037602
+   O'Connor C, 2016, WHAT BLOCKCHAIN MEAN
+   PALMISANO SJ, 2008, SMART PLAN NEXT, P1
+   Ranchordas S., 2015, MINNESOTA J LAW SCI, V16, P413
+   Schuler D., 2001, KYOT WORKSH DIG CIT, P71
+   SpendMatters, 2015, SPEND MATTERS
+   Sundararajan A, 2014, PEER TO PEER BUSINES
+   Tedjasaputra Adi, 2016, P SEACHI 2016 SMART, P32
+   UnitedNations, 2014, WORLD U RB PROSP
+   Washburn D., 2009, GROWTH, V17, P1
+   Wirtz J, 2009, J SERV RES-US, V12, P190, DOI 10.1177/1094670509335772
+   Zhao JL, 2008, COMMUN ASSOC INF SYS, V22
+NR 47
+TC 70
+Z9 71
+U1 5
+U2 82
+PU SPRINGEROPEN
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 2199-4730
+J9 FINANC INNOV
+JI Financ. Innov.
+PD DEC
+PY 2016
+VL 2
+IS 1
+AR UNSP 26
+DI 10.1186/s40854-016-0040-y
+PG 9
+WC Business, Finance; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA FJ8XI
+UT WOS:000413051500026
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU Huckle, S
+   White, M
+AF Huckle, Steve
+   White, Martin
+TI Socialism and the Blockchain
+SO FUTURE INTERNET
+LA English
+DT Article
+DE Bitcoin; blockchain; cryptocurrency; fiat money; libertarianism;
+   socialism; Marxism; anarchism
+AB Bitcoin (BTC) is often cited as Libertarian. However, the technology underpinning Bitcoin, blockchain, has properties that make it ideally suited to Socialist paradigms. Current literature supports the Libertarian viewpoint by focusing on the ability of Bitcoin to bypass central authority and provide anonymity; rarely is there an examination of blockchain technology's capacity for decentralised transparency and auditability in support of a Socialist model. This paper conducts a review of the blockchain, Libertarianism, and Socialist philosophies. It then explores Socialist models of public ownership and looks at the unique cooperative properties of blockchain that make the technology ideal for supporting Socialist societies. In summary, this paper argues that blockchain technologies are not just a Libertarian tool, they also enhance Socialist forms of governance.
+C1 [Huckle, Steve; White, Martin] Univ Sussex, Dept Informat, Creat Technol Grp, Chichester 1,128 Falmer, Brighton BN1 9QT, E Sussex, England.
+RP Huckle, S (reprint author), Univ Sussex, Dept Informat, Creat Technol Grp, Chichester 1,128 Falmer, Brighton BN1 9QT, E Sussex, England.
+EM s.huckle@sussex.ac.uk; m.white@sussex.ac.uk
+OI Huckle, Steven/0000-0003-2298-8913
+CR Aguirre K., 2012, FULL LIFETIME COST A, V6, P107
+   Alessandri P, 2009, BANKING ON THE STATE
+   Andresen G., 2015, G ANDRESEN SVBTLLE
+   Andrychowicz M., 2014, DISTRIBUTED CRYPTOGR
+   [Anonymous], 2015, ECONOMIST
+   Antonopoulos A.M., 2015, MASTERING BITCOIN
+   ARNOLD NS, 1989, SOC PHILOS POLICY, V6, P160, DOI 10.1017/S0265052500000686
+   Bakunin M., INT WORKINGMENS ASS
+   Bitcoin, CHOOS YOUR WALL BITC
+   Bitcoin, BITC COR
+   bitcoinmining.com, BEST BITC MIN HARDW
+   BitFury Group, PUBLIC VERSUS PRIV 1
+   Blockchain.info, BITC HASH RAT
+   Boaz D., THE LIBERTARIAN VOTE
+   Boaz David, LIBERTARIANISM POLIT
+   Brett Scott, 2016, CAN CRYPT BLOCKCH TE
+   Buterin V., PUBLIC PRIVATE BLOCK
+   Chang H. -J., 2014, EC USERS GUIDE PELIC
+   Coindesk, 2016, BITC PRIC IND REAL T
+   Coinmarketcap.com, CRYPT CURR MARK CAP
+   Douceur J. R., 2002, THE SYBIL ATTACK
+   Draper Hal, 1990, K MARXS THEORY REVOL
+   Elliott N., 1992, USES ABUSES MONEY
+   Engels Frederick, SOCIALISM UTOPIAN SC
+   Engels Frederick, CAPITAL SURPLUS VALU
+   Eris Industries, 2016, EXPL SMART CONTR
+   Ernest Mandel, K MARX 6 MARXS THEOR
+   Fairfield JAT, 2015, SOUTH CALIF LAW REV, V88, P805
+   Gehring B., HOW RIPPLE WORKS
+   Good Governance, WHAT IS GOOD GOV GOO
+   Graeber David, ARE YOU ANARCHIST AN
+   Graham Robert, 2005, ANARCHISM DOCUMENTAR, V1
+   Graziani A., 1997, INT J POLITICAL EC, V27, P26, DOI DOI 10.1080/08911916.1997.11643946
+   Graziani A., 1997, INT J POLITICAL EC, V27, P21
+   Guadamuz A., 2015, 1 MONDAY, V20
+   Harvey C.R., BITCOIN MYTHS FACTS
+   Harvey C.R., 2016, CRYPTOFINANCE
+   Huber J., 2016, WHAT IS SOVEREIGN MO
+   Infoshop, AN FAQ I 1 ISNT LIB
+   International Energy Agency, KEY WORLD EN STAT
+   Karlstrom H, 2014, DISTINKTION SCANDINA, V15, P23, DOI DOI 10.1080/1600910X.2013.870083
+   Key F.S, STAR SPANGLED BANNER
+   KROPOTKIN P, ANARCHISM ITS PHILOS
+   Laeven Luc, 2012, SYSTEMIC BANKING CRI
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Libertarian Party, LIB PART PLATF
+   Litecoin, LIT OP SOURC P2P DIG
+   LUDLOW P, 2001, CRYPTO ANARCHY CYBER
+   Martin F., 2014, MONEY UNAUTHORISED B
+   Martinez J., XRP MATH BASED CURRE
+   Marx K, CRITIQUE GOTHA PROGR
+   Marx K, 1887, CAPITAL CRITIQUE POL, V1
+   Marx Karl, 1848, MANIFESTO COMMUNIST
+   Marx Karl, THE POWER OF MONEY
+   Miller C., 2013, WHAT ARRIVAL BITCOIN
+   Nakamoto S., BITCOIN V0 1 RELEASE
+   Nakamoto S., BITCOIN PEER TO PEER
+   Ollman B., 1998, MARKET SOCIALISM DEB
+   Oxford Dictionary, LIB
+   Oxford Dictionary, UT SOC
+   Oxford Dictionary, SOCIALISM
+   Papers Panama, 2016, BBC NEWS
+   Pozsar Zoltan, 2011, IMF WORKING PAPERS, V11, P1
+   Rifkin J., 2014, ZERO MARGINAL COST S
+   Ripple, 2016, WELC TO RIPPL
+   Shelter, 2016, BEDR TAX AR YOU AFF
+   Smith A., 2012, WEALTH NATIONS INQUI
+   Swan M., 2015, BLOCKCHAIN BLUEPRINT
+   The Libertarian Party, MAK BITC CONTR
+   The Socialist Party of Great Britain, WHY WE DONT NEED MON
+   Tressell R., 2012, RAGGED TROUSERED PHI
+   UK Government Chief Scientific Adviser, 2015, DISTR LEDG TECHN BLO
+   Van Valkenburgh P., DISTRIBUTED COLLABOR
+   W3C, COMM MARK MICR PER F
+   Woodcock George, 2004, ANARCHISM HIST LIBER
+   Wright A, DECENTRALIZED BLOCKC
+   Yermack D., 2013, IS BITCOIN REAL CURR
+NR 77
+TC 12
+Z9 14
+U1 4
+U2 40
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1999-5903
+J9 FUTURE INTERNET
+JI Future Internet
+PD DEC
+PY 2016
+VL 8
+IS 4
+AR 49
+DI 10.3390/fi8040049
+PG 15
+WC Computer Science, Information Systems
+SC Computer Science
+GA EY7AN
+UT WOS:000404138200004
+OA DOAJ Gold, Green Accepted
+DA 2020-04-21
+ER
+
+PT J
+AU Xu, JJ
+AF Xu, Jennifer J.
+TI Are blockchains immune to all malicious attacks?
+SO FINANCIAL INNOVATION
+LA English
+DT Article
+DE Blockchain; Online malicious attacks; Fraud detection; Hacking
+   prevention
+AB Background: In recent years, blockchain technology has attracted considerable attention. It records cryptographic transactions in a public ledger that is difficult to alter and compromise because of the distributed consensus. As a result, blockchain is believed to resist fraud and hacking.
+   Results: This work explores the types of fraud and malicious activities that can be prevented by blockchain technology and identifies attacks to which blockchain remains vulnerable.
+   Conclusions: This study recommends appropriate defensive measures and calls for further research into the techniques for fighting malicious activities related to blockchains.
+C1 [Xu, Jennifer J.] Bentley Univ, Waltham, MA 02452 USA.
+RP Xu, JJ (reprint author), Bentley Univ, Waltham, MA 02452 USA.
+EM jxu@bentley.edu
+CR Akoglu L., 2013, ICWSM, V7, P2
+   Baxter A, 2016, BLOCKCHAIN UNCHAININ
+   Bitcointalk, 2014, LIST BITC HEISTS
+   Buntinx JP, 2016, EBAY CAN STOP FRAUD
+   Camp C, 2016, BITCOIN MAY HELP CRI
+   Crosby M, 2016, APPL INNOV REV, V2, P6, DOI DOI 10.1145/2994581
+   Donnelly J, 2016, EVERLEDGER PLANS CLO
+   Freedzai, 2016, NASD US BLOCKCH BAS
+   Gavish B, 2008, COMMUN ACM, V51, P89, DOI 10.1145/1342327.1342343
+   Hong N, 2015, WALL ST J, V4, P2015
+   Insights CB, 2016, BANK IS ONL START 20
+   Kosba A, 2016, P IEEE S SECUR PRIV, P839, DOI 10.1109/SP.2016.55
+   Mainelli M, 2015, J FINANC PERSPECT, V3, P1
+   Ngo D, 2016, BLOCKCHAIN TECHNOLOG
+   Nordseth G, 2016, BLOCKCHAIN IDENTITY
+   Paasch CA. W., 2008, THESIS
+   Phua C., 2010, COMPREHENSIVE SURVEY
+   Pilkington M, 2016, HDB RES DIGITAL TRAN
+   Price R, 2016, DIGITAL CURRENCY ETH
+   Sabau Andrei Sorin, 2012, Informatica Economica, V16, P110
+   SANS, 2016, IDFAQ WHAT IS INTR D
+   Sundararajan A., 2016, THE SHARING EC
+   Swan M., 2015, BLOCKCHAIN BLUEPRINT
+   Wild J, 2015, FINANC TIMES, V1, P2015
+   Wright A., 2015, DECENTRALIZED BLOCKC
+   Xiao B, 2011, MIS QUART, V35, P169
+   Yoo B., 2015, P 36 INT C INF SYST
+   Zafar S, 2016, CAN BLOCKCHAIN PREVE
+NR 28
+TC 20
+Z9 20
+U1 1
+U2 21
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2199-4730
+J9 FINANC INNOV
+JI Financ. Innov.
+PD DEC
+PY 2016
+VL 2
+IS 1
+AR UNSP 25
+DI 10.1186/s40854-016-0046-5
+PG 9
+WC Business, Finance; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA FJ8XI
+UT WOS:000413051500025
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU McKernan, KJ
+AF McKernan, Kevin Judd
+TI The chloroplast genome hidden in plain sight, open access publishing and
+   anti-fragile distributed data sources
+SO MITOCHONDRIAL DNA PART A
+LA English
+DT Article
+DE Blockchain; cannabis; chloroplast; genome; torrent
+AB We sequenced several cannabis genomes in 2011 of June and the first and the longest contigs to emerge were the chloroplast and mitochondrial genomes. Having been a contributor to the Human Genome Project and an eye-witness to the real benefits of immediate data release, I have first hand experience with the potential mal-investment of millions of dollars of tax payer money narrowly averted due to the adopted global rapid data release policy. The policy was vital in reducing duplication of effort and economic waste. As a result, we felt obligated to publish the Cannabis genome data in a similar spirit and placed them immediately on a cloud based Amazon server in August of 2011. While these rapid data release practices were heralded by many in the media, we still find some authors fail to find or reference said work and hope to compel the readership that this omission has more pervasive repercussions than bruised egos and is a regression for our community.
+C1 [McKernan, Kevin Judd] R&D, Courtagen Life Sci, 12 Gill St,Suite 3700, Woburn, MA 01801 USA.
+RP McKernan, KJ (reprint author), R&D, Courtagen Life Sci, 12 Gill St,Suite 3700, Woburn, MA 01801 USA.
+EM Kevin.McKernan@courtagen.com
+CR Hayek F. A., 1935, COLLECTIVIST EC PLAN
+   Kryder M., KYRDERS LAW
+   Lee PV, 2014, BMC BIOINFORMATICS, V15, DOI 10.1186/s12859-014-0424-9
+   McKernan KJ, CANNABIS SATIVA GENO
+   Stafford L., 2011, SEQUENCING CANNABIS
+   Vergara D, 2016, MITOCHONDRIAL DNA A, V27, P3793, DOI 10.3109/19401736.2015.1079905
+   Wiecek AS, BIOTECHNIQUES
+NR 7
+TC 3
+Z9 3
+U1 1
+U2 9
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2470-1394
+EI 2470-1408
+J9 MITOCHONDRIAL DNA A
+JI Mitochondrial DNA Part A
+PY 2016
+VL 27
+IS 6
+BP 4518
+EP 4519
+DI 10.3109/19401736.2015.1101541
+PG 2
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA EJ6CW
+UT WOS:000393307200257
+PM 26486305
+OA Bronze
+DA 2020-04-21
+ER
+
+PT J
+AU De Filippi, P
+   Loveluck, B
+AF De Filippi, Primavera
+   Loveluck, Benjamin
+TI The invisible politics of Bitcoin: governance crisis of a decentralised
+   infrastructure
+SO INTERNET POLICY REVIEW
+LA English
+DT Article
+DE Bitcoin; Blockchain; Peer-to-peer (P2P)
+ID TRUST
+AB Bitcoin is a decentralised currency and payment system that seeks to eliminate the need for trusted authorities. It relies on a peer-to-peer network and cryptographic protocols to perform the functions of traditional financial intermediaries, such as verifying transactions and preserving the integrity of the system. This article examines the political economy of Bitcoin, in light of a recent dispute that divided the Bitcoin community with regard to a seemingly simple technical issue: whether or not to increase the block size of the Bitcoin blockchain. By looking at the socio-technical constructs of Bitcoin, the article distinguishes between two distinct coordination mechanisms: governance by the infrastructure (achieved via the Bitcoin protocol) and governance of the infrastructure (managed by the community of developers and other stakeholders). It then analyses the invisible politics inherent in these two mechanisms, which together display a highly technocratic power structure. On the one hand, as an attempt to be self-governing and self-sustaining, the Bitcoin network exhibits a strong market-driven approach to social trust and coordination, which has been embedded directly into the technical protocol. On the other hand, despite being an open source project, the development and maintenance of the Bitcoin code ultimately relies on a small core of highly skilled developers who play a key role in the design of the platform.
+C1 [De Filippi, Primavera] Harvard Univ, Berkman Klein Ctr Internet & Soc, Cambridge, MA 02138 USA.
+   [Loveluck, Benjamin] Univ Paris Saclay, Telecom ParisTech, Paris, France.
+   [Loveluck, Benjamin] CNRS Paris 2, CERSA, Paris, France.
+RP Loveluck, B (reprint author), Univ Paris Saclay, Telecom ParisTech, Paris, France.; Loveluck, B (reprint author), CNRS Paris 2, CERSA, Paris, France.
+EM benjamin.loveluck@telecom-paristech.fr
+OI De Filippi, Primavera/0000-0002-5272-7856
+CR Abbate J., 1999, INVENTING INTERNET
+   Abramowicz M.B., 2015, LEGAL STUDIES RES PA
+   Agre PE, 2003, COMMUN ACM, V46, P39, DOI 10.1145/606272.606298
+   Akrich M., 1989, ANTHR SOC, V13, P31
+   [Anonymous], 2016, ECONOMIST
+   Atzori M, 2015, WORKING PAPER
+   Auray N, 2012, GOVERNANCE, REGULATION AND POWERS ON THE INTERNET, P211
+   Badouard R., 2012, NORMATIVE EXPERIENCE, P99
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Benkler Y, 2016, DAEDALUS-US, V145, P18, DOI 10.1162/DAED_a_00362
+   Bimber Bruce, 1994, DOES TECHNOLOGY DRIV, P79
+   Bo Zhu, 2006, International Journal of Security and Networks, V1, P103, DOI 10.1504/IJSN.2006.010827
+   Bowker GC, 2010, INTERNATIONAL HANDBOOK OF INTERNET RESEARCH, P97, DOI 10.1007/978-1-4020-9789-8_5
+   Brousseau E, 2012, GOVERNANCE, REGULATION AND POWERS ON THE INTERNET, P1, DOI 10.1017/CBO9781139004145
+   Bygrave LA, 2009, INTERNET GOVERNANCE
+   Clippinger John H., 2014, BITCOIN BURNING MAN
+   Crowston K., 2005, 1 MONDAY, V10, P2, DOI [10.5210/fm.v10i2.1207, DOI 10.5210/FM.V10I2.1207]
+   David Matthew, 2010, PEER PEER MUSIC IND
+   De Filippi P, 2014, INTERNET POLICY REV, V3
+   de Laat PB, 2007, J MANAG GOV, V11, P165, DOI 10.1007/s10997-007-9022-9
+   Demil B, 2006, ORGAN STUD, V27, P1447, DOI 10.1177/0170840606067250
+   DeNardis L, 2009, INFORM REVOL GLOB PO, P1
+   DeNardis L, 2012, INFORM COMMUN SOC, V15, P720, DOI 10.1080/1369118X.2012.659199
+   DeNardis Laura, 2014, GLOBAL WAR INTERNET
+   Diamond L, 2010, J DEMOCR, V21, P69
+   DINGLEDINE R, 2004, P 13 USENIX SEC S SA
+   Dodd Nigel, 2014, SOCIAL LIFE MONEY
+   DuPont Q., 2014, J PEER PRODUCTION
+   Eyal I, 2014, LECT NOTES COMPUT SC, V8437, P436, DOI 10.1007/978-3-662-45472-5_28
+   Ferguson N, 2008, ASCENT MONEY FINANCI
+   Flichy P., 2007, INTERNET IMAGINAIRE
+   Gillespie T, 2006, SOC STUD SCI, V36, P427, DOI 10.1177/0306312706056047
+   Habermas Jurgen, 1989, STRUCTURAL TRANSFORM
+   Hayek F. A., 1990, DENATIONALIZATION MO
+   Hayek FA, 1976, LAW LEGISLATION LIBE, V2
+   Hearn M., 2016, RESOLUTION BITCOIN E
+   Hearn M., 2015, WHY IS BITCOIN FORKI
+   Hughes E., 1993, CYPHERPUNKS MANIFEST
+   Kahn D, 1967, CODEBREAKERS STORY S
+   Kallinikos J., 2011, GOVERNING TECHNOLOGY
+   Kelty C, 2005, LEONARDO SERIES, P127
+   Kostakis V., 2014, NETWORK SOC FUTURE S, P30
+   Kostakis V, 2014, TRIPLEC-COMMUN CAPIT, V12, P431
+   Lazaro C., 2008, LIBERTE LOGICIELLE E
+   Levy S., 2001, CRYPTO CODE REBELS B
+   Loveluck B., 2015, RESEAUX LIBERTES CON
+   MacKenzie D., 1999, SOCIAL SHAPING TECHN
+   Mallard A., 2014, J PEER PRODUCTION, V4
+   Mathiason J, 2009, GLOB INST, V24, P1
+   McLeay M., 2014, BANK ENGL Q B, V2014, P14
+   Mouffe C, 1993, RETURN POLITICAL
+   Mouffe C, 2001, HEGEMONY SOCIALIST S
+   Mueller ML, 2010, NETWORKS STATES GLOB
+   MUELLER MM, 2002, RULING ROOT INTERNET
+   Musiani Francesca, 2016, TURN INFRASTRUCTURE
+   Nakamoto S., 2009, BITCOIN OPEN SOURCE
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Nakamoto Satoshi, 2008, CRYPTOGRAPHY MAILING
+   North Peter, 2007, MONEY LIBERATION MIC
+   O'Mahony S, 2003, RES POLICY, V32, P1179, DOI 10.1016/S0048-7333(03)00048-9
+   O'Neil M, 2014, INFORM COMMUN SOC, V17, P872, DOI 10.1080/1369118X.2013.850525
+   Olson M, 1965, LOGIC COLLECTIVE ACT
+   Oram A., 2001, PEER TO PEER HARNESS
+   Palmer D., 2016, SCALABILITY DEBATE C
+   Polanyi Karl, 2001, GREAT TRANSFORMATION
+   Quinn B.J.M., 2009, N Y U J L BUS, V5, P549
+   Rizzo P., 2016, MAKING SENSE BITCOIN
+   Robles G., 2012, OPEN SOURCE SYSTEMS, P1
+   Russell Andrew, 2014, OPEN STANDARDS DIGIT
+   Russell AL, 2012, IEEE ANN HIST COMPUT, V34, P80, DOI 10.1109/MAHC.2012.46
+   Schweik Charles M., 2007, 1 MONDAY, V12
+   Scott B, 2014, VISIONS TECHNO LEVIA
+   Shaw A, 2014, J COMMUN, V64, P215, DOI 10.1111/jcom.12082
+   Simmel G, 2004, PHILOS MONEY
+   Star S. L., 1999, Computer Supported Cooperative Work: The Journal of Collaborative Computing, V8, P9, DOI 10.1023/A:1008651105359
+   Star SL, 1999, AM BEHAV SCI, V43, P377, DOI 10.1177/00027649921955326
+   Stewart D, 2005, AM SOCIOL REV, V70, P823, DOI 10.1177/000312240507000505
+   Trautman L. J., 2014, RICHMOND J LAW TECHN, V20, P4
+   VON NEUMANN J., 1953, THEORY GAMES EC BEHA
+   Widenius M, 2013, TECHNOL INNOV MANAG, P5
+   WINNER L, 1980, DAEDALUS, V109, P121
+   Wright A., 2015, DECENTRALIZED BLOCKC
+NR 82
+TC 31
+Z9 31
+U1 5
+U2 36
+PU ALEXANDER VON HUMBOLDT INST INTERNET & SOC
+PI BERLIN
+PA OBERWALLSTRASSE 9, BERLIN, 10117, GERMANY
+SN 2197-6775
+J9 INTERNET POLICY REV
+JI Internet Policy Rev.
+PD SEP
+PY 2016
+VL 5
+IS 3
+SI SI
+DI 10.14763/2016.3.427
+PG 28
+WC Law
+SC Government & Law
+GA FF0EL
+UT WOS:000408574900009
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Cocco, L
+   Marchesi, M
+AF Cocco, Luisanna
+   Marchesi, Michele
+TI Modeling and Simulation of the Economics of Mining in the Bitcoin Market
+SO PLOS ONE
+LA English
+DT Article
+AB In January 3, 2009, Satoshi Nakamoto gave rise to the "Bitcoin Blockchain", creating the first block of the chain hashing on his computer's central processing unit (CPU). Since then, the hash calculations to mine Bitcoin have been getting more and more complex, and consequently the mining hardware evolved to adapt to this increasing difficulty. Three generations of mining hardware have followed the CPU's generation. They are GPU's, FPGA's and ASIC's generations. This work presents an agent-based artificial market model of the Bitcoin mining process and of the Bitcoin transactions. The goal of this work is to model the economy of the mining process, starting from GPU's generation, the first with economic significance. The model reproduces some "stylized facts" found in real-time price series and some core aspects of the mining business. In particular, the computational experiments performed can reproduce the unit root property, the fat tail phenomenon and the volatility clustering of Bitcoin price series. In addition, under proper assumptions, they can reproduce the generation of Bitcoins, the hashing capability, the power consumption, and the mining hardware and electrical energy expenditures of the Bitcoin network.
+C1 [Cocco, Luisanna; Marchesi, Michele] Univ Cagliari, Dept Elect & Elect Engn, I-09123 Cagliari, Italy.
+RP Cocco, L (reprint author), Univ Cagliari, Dept Elect & Elect Engn, I-09123 Cagliari, Italy.
+EM luisanna.cocco@diee.unica.it
+OI Marchesi, Michele/0000-0003-1540-8773
+FU Regione Autonoma della Sardegna (RAS)Russian Academy of SciencesRegione
+   Sardegna [CRP-17938 LEAN 2.0, 7-2007]
+FX This work is supported by Regione Autonoma della Sardegna (RAS),
+   Regional Law No. 7-2007, project CRP-17938 LEAN 2.0. The funding source
+   has no involvement in any of the phases of the research.
+CR Androulaki E, 2013, P FIN CRYPT DAT SEC
+   Bergstra J. A, 21313055956 CORR
+   Bornholdt S, 2014, CORR
+   Brezo F, 2012, 2 INT C SOC EC
+   Chakraborti A, 2011, QUANT FINANC, V11, P1013, DOI 10.1080/14697688.2010.539249
+   Chen SH, 2012, KNOWL ENG REV, V27, P187, DOI 10.1017/S0269888912000136
+   Chiarella C, J ECON DYN CONTROL, V33, P525, DOI [10.1016/jedc.2008.08.001, DOI 10.1016/JEDC.2008.08.001]
+   Cocco L, 2017, J ECON INTERACT COOR, V12, P345, DOI 10.1007/s11403-015-0168-2
+   Cont R, 2001, QUANT FINANC, V1, P223, DOI 10.1080/713665670
+   Courtois N., 2014, CORR
+   Courtois N. T., 2014, CRYPTO CURRENCIES BI
+   Donier J, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0139356
+   Eyal Ittay, 2013, CORR
+   Garcia D, 2014, CORR
+   Gupta R, 2013, 2013 FOURTH INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATIONS AND NETWORKING TECHNOLOGIES (ICCCNT)
+   Hanley B.P, 2013, CORR, P1312
+   HILL BM, 1975, ANN STAT, V3, P1163, DOI 10.1214/aos/1176343247
+   Iori G., 2014, HDB COMPUTATIONAL EC, DOI [10.1007/978-1-4614-5360-4_41, DOI 10.1007/978-1-4614-5360-4_41]
+   Kaminsky J, 2014, CORR, V1406, P7577
+   Kristoufek L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123923
+   Levy M, 1997, PHYSICA A, V242, P90, DOI 10.1016/S0378-4371(97)00217-3
+   LiCalzi M, 2003, QUANT FINANC, V3, P470, DOI 10.1088/1469-7688/3/6/306
+   Lischke M, 2016, FUTURE INTERNET, V8, DOI 10.3390/fi8010007
+   Luther W., 2013, 1317 MERC CTR
+   LUX T, 2001, APPL FINANCIAL EC, V11, P299, DOI DOI 10.1080/096031001300138708
+   Lux T, 2000, INT J THEOR APPL FIN, V3, P675, DOI DOI 10.1142/S0219024900000826
+   Moore T, 2013, INT J CRIT INFR PROT, V6, P147, DOI 10.1016/j.ijcip.2013.08.002
+   Nakamoto S., 2009, BITCOIN PEER TO PEER
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Pagan A., 1996, J EMPIR FINANC, V3, P15, DOI DOI 10.1016/0927-5398(95)00020-8
+   Raberto M, 2001, PHYSICA A, V299, P319, DOI 10.1016/S0378-4371(01)00312-0
+   Raberto M, 2005, NONLINEAR DYNAMICS H, DOI [10.1007/3-540-27296-8_20, DOI 10.1007/3-540-27296-8_20]
+   Radivojevic T, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0088095
+   Reid Fergal, 2012, SECURITY PRIVACY SOC, P197
+   Tedeschi G, 2012, J ECON BEHAV ORGAN, V81, P82, DOI 10.1016/j.jebo.2011.09.006
+   Van Hout MC, 2014, INT J DRUG POLICY, V25, P183, DOI 10.1016/j.drugpo.2013.10.009
+   Verma R, 2007, J MULTINATL FINANC M, V17, P231, DOI 10.1016/j.mulfin.2006.10.003
+NR 37
+TC 12
+Z9 13
+U1 1
+U2 158
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 21
+PY 2016
+VL 11
+IS 10
+AR e0164603
+DI 10.1371/journal.pone.0164603
+PG 31
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DZ9OE
+UT WOS:000386205400018
+PM 27768691
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU Paech, P
+AF Paech, Philipp
+TI Securities, intermediation and the blockchain: an inevitable choice
+   between liquidity and legal certainty?
+SO UNIFORM LAW REVIEW
+LA English
+DT Article
+AB The practice of securities holding, transfer, and collateral has changed significantly over the past 200 years-moving from paper certificates and issuer registers, to an intermediated environment, and from there to computerization and globalization. These changes have made transacting more efficient and thus rendered markets more liquid. However, the law has lagged behind and is now itself an obstacle to efficiency because international securities transactions are subject to considerable legal uncertainty. The latest global market development, a cryptographic transfer process commonly called the blockchain, is the most recent efficiency-enhancing change. It offers a unique possibility to create a consistent legal framework for securities from scratch, on the basis of a legal concept that, to some extent, resembles bearer securities. This article shows what the new international legal framework could look like in the light of experience gained from earlier developments.
+C1 [Paech, Philipp] London Sch Econ & Polit Sci, Financial Law & Regulat, Houghton St, London WC2A 2AE, England.
+RP Paech, P (reprint author), London Sch Econ & Polit Sci, Financial Law & Regulat, Houghton St, London WC2A 2AE, England.
+EM P.Paech@lse.ac.uk
+CR Afrell L, 2005, UNIV LAW REV, V10, P277, DOI 10.1093/ulr/10.1-2.277
+   Ali R., 2014, INNOVATIONS PAYMENT
+   [Anonymous], 2016, DISTR LEDG TECHN BLO
+   [Anonymous], 2011, MONITORING PRICES CO, P73
+   Benjamin J, 2000, INTERESTS SECURITIES, P65
+   Bernasconi C, 2000, HAG C PRIV INT LAW C, P1
+   Bloch P, 2005, J DROIT INT, P3
+   Briggs Justice, 2013, BUTTERWORTH J INT BA, P131
+   Commission Staff Working Document, 2015, SWD201513
+   Cranch W, 1804, REPORTS CASES ARGUED, P389
+   Dicey, 2012, CONFLICT LAWS, V2, P22
+   Douglas S, 2013, PHILOS FDN PROPERTY, P219
+   Einsele D, 2003, Z WIRTSCHAFTS BANKRE, P2349
+   Einsele D, 1995, WERTPAPIERRECHT ALS, P12
+   EU Clearing and Settlement Legal Certainty Group, 2008, SOL BARR REL POSTTR
+   Financial Action Task Force, 2014, VIRT CURR KEY DEF PO
+   Financial Conduct Authority, 2015, CLIENT ASS SOURC
+   Goode R, 2010, GOODE COMMERCIAL LAW, P32
+   Goode R, 2005, EXPLANATORY REPORT H, P18
+   Gullifer L, 2010, INTERMEDIATED SECURI, P12
+   Guynn RD, 1996, TRANSFER PLEDGING LA, P5
+   Huang J., 2010, LAW REGULATION CENTR, P44
+   Kalderon M, 2016, J INT BANKING LAW RE, P243
+   Kalderon M, 2016, J INT BANKING LAW RE, P31
+   Kaminska I., 2016, FINANCIAL TIMES
+   Kuhn H, 2010, FEDERAL INTERMEDIATE, P1
+   Liang W, 2012, LAW FINANCIAL MARKET, P287
+   McKnight A, 2008, LAW INT FINANCE, P531
+   Micheler E, 2010, INTERMEDIATED SECURI, P145
+   Micheler E, 2015, CAMB LAW J, V74, P505, DOI 10.1017/S0008197315000598
+   Micheler E, 2007, CAMB STUD CORPOR LAW, P21, DOI 10.1017/CBO9780511494796.006
+   Mooney CW, 1990, CARDOZO LAW REV, V12, P398
+   Mooney Jr Charles W., 1990, CARDOZO L REV, V12, p[Cardozo, 305]
+   Nizard F, 2003, TITRES NEGOCIABLES, P17
+   Ooi M, 2003, SHARES OTHER SECURIT
+   Ooi Maisie, 2010, INTERMEDIATED SECURI, P219
+   Ortonlani P, 2015, OXFORD J LEGAL STUD, V1, DOI [10.1093/ojls/gqv036, DOI 10.1093/0JLS/GQV036;]
+   Paech P, 2013, INTERMEDIATED SECURI, P36
+   Paech P, 2014, INTERMEDIATED SECURI
+   Paech P, OXFORD J LE IN PRESS, DOI [10.1093/ojls/gqv041, DOI 10.1093/0JLS/GQV041]
+   Payne J, 2010, INTERMEDIATED SECURI, P187
+   Peters GW, 2015, WORKING PAPER, p[26, 30]
+   Pistor K, 2013, J COMP ECON, V41, P316
+   Pistor K, 2013, J COMP ECON, V41, P315, DOI 10.1016/j.jce.2013.03.003
+   Quest D, 2015, CORPORATE RESCUE INS, P261
+   Rogers JS, 1990, CARDOZO L REV, V12, P471
+   Rogers JS, 1995, UCLA LAW REV, V43, P1449
+   Rogers JS, 1995, EARLY HIST LAW NOTES, pc 8
+   Rogers JS, 1990, CARDOZO LAW REV, V12, P470
+   Schroeder JL, 2015, 458 CARD LAW FAC
+   Sigman Harry C, 2005, INT FINANCE LAW REV, P31
+   von Savigny FC, 1853, OBLIGATIONENRECHT TH, P97
+   Wright A, 2015, WORKING PAPER, P11
+   Yates M, 2009, LAW GLOBAL CUSTODY, P20
+NR 54
+TC 4
+Z9 4
+U1 2
+U2 32
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1124-3694
+EI 2050-9065
+J9 UNIV LAW REV
+JI Univ. Law Rev.
+PD DEC
+PY 2016
+VL 21
+IS 4
+BP 612
+EP 639
+DI 10.1093/ulr/unw040
+PG 28
+WC Law
+SC Government & Law
+GA EQ8BO
+UT WOS:000398310100019
+OA Green Accepted
+DA 2020-04-21
+ER
+
+PT J
+AU Tschorsch, F
+   Scheuermann, B
+AF Tschorsch, Florian
+   Scheuermann, Bjoern
+TI Bitcoin and Beyond: A Technical Survey on Decentralized Digital
+   Currencies
+SO IEEE COMMUNICATIONS SURVEYS AND TUTORIALS
+LA English
+DT Article
+DE Altcoins; Bitcoin; blockchain; cryptocurrencies; digital currencies;
+   distributed consensus; survey; tutorial
+ID CONSENSUS; ATTACKS; COST
+AB Besides attracting a billion dollar economy, Bitcoin revolutionized the field of digital currencies and influenced many adjacent areas. This also induced significant scientific interest. In this survey, we unroll and structure the manyfold results and research directions. We start by introducing the Bitcoin protocol and its building blocks. From there we continue to explore the design space by discussing existing contributions and results. In the process, we deduce the fundamental structures and insights at the core of the Bitcoin protocol and its applications. As we show and discuss, many key ideas are likewise applicable in various other fields, so that their impact reaches far beyond Bitcoin itself.
+C1 [Tschorsch, Florian; Scheuermann, Bjoern] Humboldt Univ, Dept Comp Sci, D-10099 Berlin, Germany.
+RP Tschorsch, F (reprint author), Humboldt Univ, Dept Comp Sci, D-10099 Berlin, Germany.
+EM tschorsch@informatik.hu-berlin.de; scheuermann@informatik.hu-berlin.de
+CR ABADI M, 2005, ACM T INTERNET TECHN, V5, P299, DOI DOI 10.1145/1064340.1064341
+   Aguilera MK, 2010, LECT NOTES COMPUT SC, V5959, P59, DOI 10.1007/978-3-642-11294-2_4
+   Ali ST, 2015, LECT NOTES COMPUT SC, V8976, P34, DOI 10.1007/978-3-662-48051-9_3
+   Anderson R., 1998, Operating Systems Review, V32, P9
+   Andresen G., 2011, BIP 11 M N STANDARD
+   Andresen G., 2012, BIP 16 PAY SCRIPT HA
+   Andresen G., 2011, BIP 13 ADDRESS FORMA
+   Androulaki Elli, 2014, Trust and Trustworthy Computing. 7th International Conference, TRUST 2014. Proceedings: LNCS 8564, P161, DOI 10.1007/978-3-319-08593-7_11
+   Androulaki E., 2013, LNCS, P34, DOI [DOI 10.1007/978-3-642-39884-1_, DOI 10.1007/978-3-642-39884-1]
+   Andrychowicz M, 2015, LECT NOTES COMPUT SC, V8976, P1, DOI 10.1007/978-3-662-48051-9_1
+   Andrychowicz M, 2014, P IEEE S SECUR PRIV, P443, DOI 10.1109/SP.2014.35
+   Andrychowicz M, 2014, LECT NOTES COMPUT SC, V8438, P105, DOI 10.1007/978-3-662-44774-1_8
+   Angluin D, 2006, LECT NOTES COMPUT SC, V4026, P37
+   [Anonymous], 2014, BITCOIN DEV DOCUMENT
+   [Anonymous], 2003, ANNOTATED GNUTELLA P
+   [Anonymous], 2014, THE BITCOIN WIKI
+   [Anonymous], 2011, TIM BITC
+   Aperjis C, 2011, IEEE ACM T NETWORK, V19, P1290, DOI 10.1109/TNET.2011.2114898
+   Asokan N, 1997, COMPUTER, V30, P28, DOI 10.1109/2.612244
+   Aspnes J, 2003, DISTRIB COMPUT, V16, P165, DOI 10.1007/s00446-002-0081-5
+   Aspnes J., 2005, YALEUDCST1332
+   Babaioff Moshe, 2012, P 13 ACM C EL COMM, P56, DOI DOI 10.1145/2229012.2229022
+   Back A., 2014, ABS14023698 COMP RES
+   Back A., 2014, TECH REP
+   Back A., 2002, TECH REP
+   Backstrom L., 2007, P 16 INT C WORLD WID, P181, DOI DOI 10.1145/1242572.1242598
+   Bahack L., 2013, 2013868 IACR CRYPT E
+   Bamert T, 2014, LECT NOTES COMPUT SC, V8743, P65, DOI 10.1007/978-3-319-11851-2_5
+   Bamert T, 2013, IEEE INT CONF PEER
+   Barber S., 2012, LNCS, P399, DOI [DOI 10.1007/978-3-642-32946-3, DOI 10.1007/978-3-642-32946-3_29]
+   Barok D., 2011, TECH REP
+   Baumann Annika, 2014, 10th International Conference on Web Information Systems and Technologies (WEBIST 2014). Proceedings, P369
+   Ben-Sasson E, 2014, P IEEE S SECUR PRIV, P459, DOI 10.1109/SP.2014.36
+   Bentov Iddo, 2014, ACM SIGMETRICS Performance Evaluation Review, V42, P34
+   Bentov I, 2014, LECT NOTES COMPUT SC, V8617, P421, DOI 10.1007/978-3-662-44381-1_24
+   Biryukov A, 2014, CCS'14: PROCEEDINGS OF THE 21ST ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P15, DOI 10.1145/2660267.2660379
+   Biryukov A, 2015, LECT NOTES COMPUT SC, V8975, P445, DOI 10.1007/978-3-662-47854-7_27
+   Biryukov A, 2015, P IEEE S SECUR PRIV, P122, DOI 10.1109/SP.2015.15
+   Bissias G., 2014, P 13 WORKSH PRIV EL, P149
+   Bitcoin Development Mailing Lists, 2014, OUTB CONN ROT
+   Blindcoin Blinded A. M. F. B., 2015, P 2 WORKSH BITC RES, P112
+   BLOOM BH, 1970, COMMUN ACM, V13, P422, DOI 10.1145/362686.362692
+   Blum M., 1988, P 20 ANN ACM S THEOR, P103, DOI DOI 10.1145/62212.62222
+   Bohr J, 2014, ANN CONF PRIV SECUR, P94, DOI 10.1109/PST.2014.6890928
+   Boneh D, 2003, LECT NOTES COMPUT SC, V2656, P416
+   Bonneau J., 2014, P 22 INT WORKSH SEC
+   Bonneau J, 2015, P IEEE S SECUR PRIV, P104, DOI 10.1109/SP.2015.14
+   Bonneau J, 2014, LECT NOTES COMPUT SC, V8437, P486, DOI 10.1007/978-3-662-45472-5_31
+   Bos JW, 2014, LECT NOTES COMPUT SC, V8437, P157, DOI 10.1007/978-3-662-45472-5_11
+   Brown D. R. L., 2010, SEC 2 RECOMMENDED EL
+   Bruce J., 2014, TECH REP
+   Chaum D., 1983, Advances in Cryptology, Proceedings of Crypto 82, P199
+   Chaum D., 1981, COMMUN ACM, V24, P211
+   Chaves R, 2008, IEEE T VLSI SYST, V16, P999, DOI 10.1109/TVLSI.2008.2000450
+   Clark J., 2012, LNCS, P390, DOI DOI 10.1007/978-3-642-32946-3
+   Cohen B., 2014, ATTACK TIMESTAMP SEM
+   Cohen B., 2003, P WORKSH EC PEER TO, P68
+   Courtois N. T., 2013, ABS13107935 COMP RES
+   Courtois N. T., 1718, ABS14021718 COMP RES
+   Courtois N. T., 2014, ABS14050534 COMP RES
+   Courtois N. T., 2014, P INT C CRYPT SEC SY, P131
+   Courtois NT, 2014, 2014 11TH INTERNATIONAL CONFERENCE ON SECURITY AND CRYPTOGRAPHY (SECRYPT), P426
+   Coventry A., 2012, TECH REP
+   Dagher GG, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P720, DOI 10.1145/2810103.2813674
+   Dai W., 1998, B MONEY
+   Danezis G, 2003, P IEEE S SECUR PRIV, P2, DOI 10.1109/SECPRI.2003.1199323
+   Danezis G., 2015, 502 IACR CRYPT EPRIN
+   Decker Christian, 2015, Stabilization, Safety and Security of Distributed Systems. 17th International Symposium, SSS 2015. Proceedings: LNCS 9212, P3, DOI 10.1007/978-3-319-21741-3_1
+   Decker C., 2013, PEER TO PEER COMP P2, P1, DOI DOI 10.1109/P2P.2013.6688704
+   Decker C, 2014, LECT NOTES COMPUT SC, V8713, P313, DOI 10.1007/978-3-319-11212-1_18
+   Dev J. A., 2014, EL COMP ENG CCECE 20, P1, DOI DOI 10.1109/CCECE.2014.6900989
+   Diaz C, 2003, LECT NOTES COMPUT SC, V2760, P18
+   DIFFIE W, 1976, IEEE T INFORM THEORY, V22, P644, DOI 10.1109/TIT.1976.1055638
+   Dingledine R, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE 13TH USENIX SECURITY SYMPOSIUM, P303
+   DINGLEDINE R., 2014, P 7 WORKSH HOT TOP P
+   Dmitrienko A., 2014, P 1 WORKSH BITC RES, P159
+   DOLEV D, 1987, J ACM, V34, P77, DOI 10.1145/7531.7533
+   Donet JAD, 2014, LECT NOTES COMPUT SC, V8438, P87, DOI 10.1007/978-3-662-44774-1_7
+   Douceur JR, 2002, LECT NOTES COMPUT SC, V2429, P251, DOI 10.1007/3-540-45748-8_24
+   Drainville D., 2012, TECH REP
+   Duffield E., 2014, DARKCOIN PEER TO PEE
+   Dwork C, 2003, LECT NOTES COMPUT SC, V2729, P426
+   Dwork C., 1993, LNCS, P139, DOI DOI 10.1007/3-540-48071-4
+   E. Project, 2014, NEXT GEN SMART CONTR
+   Eastlake D., 2011, 6234 RFC INT ENG TAS
+   EB3full, 2014, SIMB P2P NETW SIM
+   Elahi T., 2012, P 2012 ACM WORKSH PR, P43, DOI DOI 10.1145/2381966.2381973
+   Eyal I, 2015, P IEEE S SECUR PRIV, P89, DOI 10.1109/SP.2015.13
+   Eyal I, 2014, LECT NOTES COMPUT SC, V8437, P436, DOI 10.1007/978-3-662-45472-5_28
+   Eyal Ittay, 2014, DISINCENTIVIZE LARGE
+   Feld S, 2014, PROCEDIA COMPUT SCI, V32, P1121, DOI 10.1016/j.procs.2014.05.542
+   FELLER W, 1957, INTRO PROBABILITY TH
+   Ferrin D., 2015, P TEX BITC C
+   Finney H., 2011, BEST PRACTICE FAST T
+   Finney H., 2004, RPOW
+   FISCHER MJ, 1985, J ACM, V32, P374, DOI 10.1145/3149.214121
+   Fleder M., 2013, 6858 MIT COMP SYST S
+   Fromknecht C., 2014, 6857 MIT
+   Fujisaki E, 2007, LECT NOTES COMPUT SC, V4450, P181
+   Gallagher P., 2013, FEDERAL INFORM PROCE
+   Garay J, 2015, LECT NOTES COMPUT SC, V9057, P281, DOI 10.1007/978-3-662-46803-6_10
+   Garcia D., 2014, ABS14081494 COMP RES
+   Gerhardt I., 2012, ABS12123257 COMP RES
+   Gervais A, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P692, DOI 10.1145/2810103.2813655
+   Gervais A, 2014, IEEE SECUR PRIV, V12, P54, DOI 10.1109/MSP.2014.49
+   Ghosh M., 2014, P 7 WORKSH HOT TOP P
+   Gobel J., 2015, ABS150505343 COMP RE
+   Goldfeder S., 2015, TECH REP
+   Goldfeder S., 2014, TECH REP
+   Goldstein DG, 1996, PROCEEDINGS OF THE EIGHTEENTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, P137
+   Greenberg A., 2013, FORBES MAGAZINE
+   Haber S., 1991, Journal of Cryptology, V3, P99
+   Hajdarbegovic Nermin, 2014, BITCOIN MINERS DITCH
+   HARDIN G, 1968, SCIENCE, V162, P1243, DOI 10.1126/science.162.3859.1243
+   Hearn M., 2014, MINING DECENTRALISAT
+   Hearn M., 2012, BIP 37 CONNECTION BL
+   Heilman E., 2014, P 18 INT C FIN CRYPT
+   Heilman E., 2015, 24 USENIX SEC S USEN, P129
+   Heusser J., 2013, SAT SOLVING ALTERNAT
+   Hoepman J.-H., 2007, P 15 INT WORKSH SEC, P152
+   Houy N., 2014, HALSHS00958224 GATE
+   Houy N, 2014, ECON BULL, V34, P1038
+   Howgrave-Graham NA, 2001, DESIGN CODE CRYPTOGR, V23, P283, DOI 10.1023/A:1011214926272
+   Huang D.Y., 2014, P NETW DISTR SYST SE
+   Jansen R., 2014, P 7 WORKSH HOT TOP P
+   Johnson Aaron, 2013, P 2013 ACM SIGSAC C, P337, DOI [10.1145/2508859.2516651, DOI 10.1145/2508859.2516651]
+   Johnson B, 2014, LECT NOTES COMPUT SC, V8438, P72, DOI 10.1007/978-3-662-44774-1_6
+   Kaminsky D., 2011, BLACK OPS OF TCP IP
+   Karame G. A. E. a. C. S., 2012, P 2012 ACM C COMP CO, P906, DOI DOI 10.1145/2382196.2382292
+   Karame GO, 2015, ACM T INFORM SYST SE, V18, DOI 10.1145/2732196
+   Kaskaloglu Kerem, 2014, International Conference on Digital Security and Forensics (DigitalSec2014), P91
+   Kiba, 2010, BITDNS BOUNTY 3500
+   King S., 2013, TECH REP
+   King S., 2012, TECH REP
+   King S., 2013, COMMUNICATION
+   KLINGBERG T, 2002, GNUTELLA 0 6
+   Koblitz N., 1987, J MATH COMPUTATION, V48, P203, DOI DOI 10.1090/S0025-5718-1987-0866109-5
+   Kondor D., 2013, ABS13083892 COMP RES
+   Koooooj, 2013, GOOD NEWS PRIMECOIN
+   Koshy P, 2014, ANAL ANONYMITY BITCO, P469
+   Kraft D., 2015, PEER PEER NETW APPL
+   Kristoufek L, 2015, PLOS ONE, V10
+   Kroll JA, 2013, P 12 WORKSH EC INF S
+   Kumaresan R, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P195, DOI 10.1145/2810103.2813712
+   Kumaresan R, 2014, CCS'14: PROCEEDINGS OF THE 21ST ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P30, DOI 10.1145/2660267.2660380
+   Ladd W., 2013, TECH REP
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Lanham N, 2003, ACM SIGCOMM COMP COM, V33, P407
+   Larimer D., 2013, TECH REP
+   Larimer D, 2014, DELEGATED PROOF OF S
+   Laszka A, 2015, LECT NOTES COMPUT SC, V8976, P63, DOI 10.1007/978-3-662-48051-9_5
+   Laurie B., 2011, TECH REP
+   Law L., 1996, AM U LAW REV, V46
+   Lerner S. D., 2012, TECH REP
+   Lerner S. D., 2014, DECOR
+   Lists B. D. M., 2014, ASIC PROOF MINING
+   Lv Q, 2002, LECT NOTES COMPUT SC, V2429, P94
+   Lynch N. A., 1989, Proceedings of the Eighth Annual ACM Symposium on Principles of Distributed Computing, P1, DOI 10.1145/72981.72982
+   Malkhi D, 1998, DISTRIB COMPUT, V11, P203, DOI 10.1007/s004460050050
+   Massias H., 1999, P 20 S INF THEOR BEN
+   Matta M., 2015, P WORKSH DEEP CONT A
+   Maxwell G., 2013, COINSWAP T GRAPH DIS
+   Maxwell G., 2013, COINJOIN BITCOIN PRI
+   Meiklejohn S., 2013, P 2013 C INT MEAS C, P127, DOI [DOI 10.1145/2504730.2504747, 10.1145/2504730.2504747]
+   Meiklejohn S, 2015, LECT NOTES COMPUT SC, V8976, P127, DOI 10.1007/978-3-662-48051-9_10
+   Menasche D. S., 2010, P 29 C INF COMM INFO, P1505
+   Merkle R., 1987, C THEOR APPL CRYPT T, P369, DOI DOI 10.1007/3-540-48184-2_32
+   Michael_S (bitcointalk.org), 2014, WHY COINJOIN USED DA
+   Miers I, 2013, P IEEE S SECUR PRIV, P397, DOI 10.1109/SP.2013.34
+   Miller A., 2015, P 8 WORKSH CYB SEC E
+   MILLER A., 2014, TECH REP
+   Miller A., 2015, TECH REP
+   Miller A., 2012, BITCOIN THEORY BYZA
+   Miller A, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P680, DOI 10.1145/2810103.2813621
+   Miller A, 2014, P IEEE S SECUR PRIV, P475, DOI 10.1109/SP.2014.37
+   MILLER VS, 1986, LECT NOTES COMPUT SC, V218, P417, DOI 10.1007/3-540-39799-x_31
+   Mills D., 2010, 5905 RFC INT ENG TAS
+   MOLLER U, 2003, MIXMASTER P IN PRESS
+   MOORE T, 2013, LECT NOTES COMPUTER, V7859
+   Moser M., 2013, INQUIRY MONEY LAUNDE
+   Moser M., 2014, P 1 WORKSH BITC RES
+   Nakamoto S., 2008, RE BITCOIN P2P E CAS
+   Nakamoto S, 2008, BITCOIN P2P E CASH P
+   Nakamoto S., 2008, TECH REP
+   Narayanan A., 2015, BITCOIN CRYPTOCURREN
+   Narayanan A, 2008, P IEEE S SECUR PRIV, P111, DOI 10.1109/SP.2008.33
+   Narayanan A, 2009, P IEEE S SECUR PRIV, P173, DOI 10.1109/SP.2009.22
+   Neudecker T, 2015, PROCEEDINGS OF THE 2015 IFIP/IEEE INTERNATIONAL SYMPOSIUM ON INTEGRATED NETWORK MANAGEMENT (IM), P1327, DOI 10.1109/INM.2015.7140490
+   Nielsen Michael, 2013, BITCOIN PROTOCOL ACT
+   O'Dwyer Karl J., 2014, 25th IET Irish Signals & Systems Conference 2014 and 2014 China-Ireland International Conference on Information and Communications Technologies (ISSC 2014/CIICT 2014). Proceedings, P280
+   Ober M, 2013, FUTURE INTERNET, V5, P237, DOI 10.3390/fi5020237
+   Osipkov I., 2007, P 27 IEEE INT C DIST, P41
+   Overlier L, 2006, P IEEE S SECUR PRIV, P100, DOI 10.1109/SP.2006.24
+   Page Lawrence, 1999, 199966 STANF INFOLAB
+   Paul G, 2014, LECT NOTES COMPUT SC, V8880, P185, DOI 10.1007/978-3-319-13841-1_11
+   Percival C., 2009, P TECH BSD C BSDCAN
+   Pickard G., 2010, ABS10083172 COMP RES
+   Plohmann D., 2012, P 4 INT C CYB CONFL, P1
+   Ragan R., 2014, BLACK HAT US
+   Raymond J.-F., 2000, P DES PRIV ENH TECHN, P10
+   Reed S. L., 2014, ABS14055741 COMP RES
+   Reid F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P1318, DOI 10.1109/PASSAT/SocialCom.2011.79
+   Ren L., 2014, TECH REP
+   Rivest R. L., 2001, LNCS, V2248, P552, DOI [DOI 10.1007/3-540-45682-1, 10.1007/11685654_7]
+   Ron D., 2013, LNCS, P6, DOI DOI 10.1007/978-3-642-39884-1
+   Ron D, 2014, LECT NOTES COMPUT SC, V8438, P3, DOI 10.1007/978-3-662-44774-1_1
+   Rosenfeld M., 2011, ABS11124980 COMP RES
+   Rosenfeld M., 2012, TECH REP
+   Ruffing T, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P219, DOI 10.1145/2810103.2813686
+   Ruffing T, 2014, LECT NOTES COMPUT SC, V8713, P345, DOI 10.1007/978-3-319-11212-1_20
+   Saxena A, 2014, LECT NOTES COMPUT SC, V8438, P122, DOI 10.1007/978-3-662-44774-1_9
+   Schwartz A., 2011, SQUARING TRIANGLE SE
+   Schwartz D., 2014, TECH REP
+   Serjantov A, 2003, LECT NOTES COMPUT SC, V2578, P36
+   Shah D., 2014, ABS14101231 COMP RES
+   SHAMIR A, 1979, COMMUN ACM, V22, P612, DOI 10.1145/359168.359176
+   Sompolinsky Y, 2015, LECT NOTES COMPUT SC, V8975, P507, DOI 10.1007/978-3-662-47854-7_32
+   Spagnuolo M, 2014, LECT NOTES COMPUT SC, V8437, P457, DOI 10.1007/978-3-662-45472-5_29
+   Syverson P., 2000, P DES PRIV ENH TECHN, V2009, P96
+   Szabo N, 1998, SECURE PROPERTY TITL
+   Szabo N., 2003, ADV DISTRIBUTED SECU
+   Szabo N., 2005, BIT GOLD
+   Szabo N, 1997, IDEA SMART CONTRACTS
+   Szefer J, 2013, IEEE ACM INT SYMP, P630, DOI 10.1109/CCGrid.2013.102
+   Taylor M. B., 2013, INT C COMP ARCH SYNT, P1, DOI DOI 10.1109/CASES.2013.6662520
+   Tschorsch F., 2015, 2015464 IACR CRYPT E
+   TUREK J, 1992, COMPUTER, V25, P8, DOI 10.1109/2.153253
+   van Saberhagen N., 2013, TECH REP
+   Vandervort D, 2014, LECT NOTES COMPUT SC, V8438, P33, DOI 10.1007/978-3-662-44774-1_3
+   Vasek M, 2015, LECT NOTES COMPUT SC, V8975, P44, DOI 10.1007/978-3-662-47854-7_4
+   Vasek M, 2014, LECT NOTES COMPUT SC, V8438, P57, DOI 10.1007/978-3-662-44774-1_5
+   Vector67, 2011, FAK BITC
+   Vinced, 2011, NAMECOIN DISTRIBUTED
+   Vishnumurthy V., 2003, P 1 WORKSH EC PEER P
+   Vomberger J., 2012, P 42 GI JAHR INFORMA, P28
+   Warren J., 2012, TECH REP
+   Wilcox-OHearn Z., 2010, NAMES DISTRIBUTED SE
+   Willett J. R., 2013, CISC VIS NETW IND GL
+   Wood G., 2014, TECH REP
+   Wuille P., 2014, BIP 62 DEALING MALLE
+   Yelowitz A., 2015, APPL EC LETT, V22
+   Zimmermann P., 1995, OFFICIAL PGP USERS G
+NR 242
+TC 254
+Z9 266
+U1 162
+U2 672
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+EI 1553-877X
+J9 IEEE COMMUN SURV TUT
+JI IEEE Commun. Surv. Tutor.
+PY 2016
+VL 18
+IS 3
+BP 2084
+EP 2123
+DI 10.1109/COMST.2016.2535718
+PG 40
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA DY1XG
+UT WOS:000384887100022
+HC Y
+HP N
+DA 2020-04-21
+ER
+
+PT J
+AU Feld, S
+   Schonfeld, M
+   Werner, M
+AF Feld, Sebastian
+   Schoenfeld, Mirco
+   Werner, Martin
+TI Traversing Bitcoin's P2P network: insights into the structure of a
+   decentralised currency
+SO INTERNATIONAL JOURNAL OF COMPUTATIONAL SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE peer-to-peer network; P2P network; Bitcoin; autonomous systems;
+   electronic cash; digital currency; privacy; k-anonymity; resilience;
+   information propagation
+ID ANONYMITY
+AB Lots of existing work addresses the analysis of Bitcoin's publicly available transaction graph. There are evaluations of the user's anonymity and privacy, but no proper measurements of the underlying network. This paper presents novel insights about Bitcoin's P2P network, with a focus on the distribution among autonomous systems. The resilience of Bitcoin's ecosystem, the unambiguousness of the blockchain, the propagation and verification of transaction blocks, but also the anonymity of Bitcoin's users depend on the structure of the global network. Our work is the first thorough analysis of Bitcoin's underlying network, especially with regard to its distribution at autonomous system level. We traversed Bitcoin's network and made statements about the size of the accessible network and the number of clients. Further, we investigated the network's distribution on autonomous systems. Finally, we analysed the mechanism to announce known peers. It turns out that Bitcoin's peer announcement is not well-distributed, affecting information propagation.
+C1 [Feld, Sebastian; Schoenfeld, Mirco; Werner, Martin] Univ Munich, Mobile & Distributed Syst Grp, Munich, Germany.
+RP Feld, S (reprint author), Univ Munich, Mobile & Distributed Syst Grp, Munich, Germany.
+EM sebastian.feld@ifi.lmu.de; mirco.schoenfeld@ifi.lmu.de;
+   martin.werner@ifi.lmu.de
+CR Androulaki E., 2012, EVALUATING USER PRIV, V2012, P596
+   Babaioff Moshe, 2012, P 13 ACM C EL COMM, P56, DOI DOI 10.1145/2229012.2229022
+   Back  A., 2002, HASHCASHA DENIAL SER
+   Becker J, 2012, GI JAHRESTAGUNG, pS
+   CHAUM D, 1990, LECT NOTES COMPUT SC, V403, P319
+   Dai W., 1998, B MONEY PROPOSAL
+   Decker C., 2013, IEEE INT C PEER TO P
+   Dwork C., 1993, LNCS, P139, DOI DOI 10.1007/3-540-48071-4
+   Fugger R., 2004, MONEY IOUS SOCIAL TR
+   Grinberg Reuben, 2012, HASTINGS SCI TECH L, V4, P159
+   Hearn M., 2013, BITCOINJ JAVA IMPLEM
+   Holz T., 2008, LEET, V8, P1
+   Kaminsky S., 2011, BLACK OPS TCP IP PRE
+   Karame G. A. E. a. C. S., 2012, P 2012 ACM C COMP CO, P906, DOI DOI 10.1145/2382196.2382292
+   Maxmind, 2014, GEOL DAT
+   Meiklejohn S., 2013, P 2013 C INT MEAS C, P127, DOI [DOI 10.1145/2504730.2504747, 10.1145/2504730.2504747]
+   Miers I, 2013, P IEEE S SECUR PRIV, P397, DOI 10.1109/SP.2013.34
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Ober M, 2013, FUTURE INTERNET, V5, P237, DOI 10.3390/fi5020237
+   Reid F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P1318, DOI 10.1109/PASSAT/SocialCom.2011.79
+   Ron D., 2012, IACR CRYPTOLOGY EPRI, V2012, P584
+   Rossow C., 2013, P 34 IEEE S SEC PRIV
+   Stock B, 2009, P 2009 EUR C COMP NE, P13, DOI DOI 10.1109/EC2ND.2009.10
+   Sweeney L, 2002, INT J UNCERTAIN FUZZ, V10, P557, DOI 10.1142/S0218488502001648
+NR 24
+TC 4
+Z9 4
+U1 0
+U2 32
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND
+SN 1742-7185
+EI 1742-7193
+J9 INT J COMPUT SCI ENG
+JI Int. J. Comput. Sci. Eng.
+PY 2016
+VL 13
+IS 2
+SI SI
+BP 122
+EP 131
+DI 10.1504/IJCSE.2016.078441
+PG 10
+WC Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA DZ0LP
+UT WOS:000385531200003
+DA 2020-04-21
+ER
+
+PT J
+AU Zhang, J
+   Xue, N
+   Huang, X
+AF Zhang, Jie
+   Xue, Nian
+   Huang, Xin
+TI A Secure System For Pervasive Social Network-Based Healthcare
+SO IEEE ACCESS
+LA English
+DT Article
+DE IEEE 802.15.6; blockchain; e-health; healthcare; human body channels
+ID BODY
+AB Modern technologies of mobile computing and wireless sensing prompt the concept of pervasive social network (PSN)-based healthcare. To realize the concept, the core problem is how a PSN node can securely share health data with other nodes in the network. In this paper, we propose a secure system for PSN-based healthcare. Two protocols are designed for the system. The first one is an improved version of the IEEE 802.15.6 display authenticated association. It establishes secure links with unbalanced computational requirements for mobile devices and resource-limited sensor nodes. The second protocol uses blockchain technique to share health data among PSN nodes. We realize a protocol suite to study protocol runtime and other factors. In addition, human body channels are proposed for PSN nodes in some use cases. The proposed system illustrates a potential method of using blockchain for PSN-based applications.
+C1 [Zhang, Jie; Xue, Nian; Huang, Xin] Xian Jiaotong Liverpool Univ, Dept Comp Sci & Software Engn, Suzhou 215123, Peoples R China.
+   [Zhang, Jie; Xue, Nian] Univ Liverpool, Sch Elect Engn & Elect & Comp Sci, Liverpool L69 3BX, Merseyside, England.
+RP Huang, X (reprint author), Xian Jiaotong Liverpool Univ, Dept Comp Sci & Software Engn, Suzhou 215123, Peoples R China.
+EM Xin.Huang@xjtlu.edu.cn
+FU XJTLU research development [RDF140243, RDF150246]; Suzhou Science and
+   Technology Development Plan [SYG201516]; Jiangsu Province National
+   Science Foundation [BK20150376]
+FX This work was supported by the XJTLU research development fund projects
+   under Grant RDF140243 and Grant RDF150246, in part by the by the Suzhou
+   Science and Technology Development Plan under Grant SYG201516, and in
+   part by the Jiangsu Province National Science Foundation under Grant
+   BK20150376.
+CR Creese S, 2005, LECT NOTES COMPUT SC, V3450, P119
+   DOLEV D, 1983, IEEE T INFORM THEORY, V29, P198, DOI 10.1109/tit.1983.1056650
+   Ekblaw A., 2016, CASE STUDY BLOCKCHAI
+   Fabian B, 2015, INFORM SYST, V48, P132, DOI 10.1016/j.is.2014.05.004
+   Hackell MW, 2016, P IEEE, V104, P1632, DOI 10.1109/JPROC.2016.2566602
+   Hassan MM, 2017, FUTURE GENER COMP SY, V66, P48, DOI 10.1016/j.future.2015.12.016
+   Horn G, 2002, IEEE T VEH TECHNOL, V51, P383, DOI 10.1109/25.994813
+   Huang X., 2015, P 4 IEEE CIC INT C C, P2
+   Huang XT, 2014, THESIS
+   IEEE Standards Association, 2012, 8021562012 IEEE
+   Kainda R., 2009, P 5 S US PRIV SEC, P11
+   Lin K, 2016, J MED SYST, V40, DOI 10.1007/s10916-016-0567-5
+   Lowe G., 1998, Journal of Computer Security, V6, P53
+   MERKLE RC, 1990, LECT NOTES COMPUT SC, V435, P218, DOI 10.1007/0-387-34805-0_21
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Peterson K., 2016, BLOCKCHAIN BASED APP
+   Pulur NA, 2016, LECT NOTES ELECTR EN, V363, P93, DOI 10.1007/978-3-319-22635-4_8
+   Rahman MA, 2010, IEEE T INSTRUM MEAS, V59, P1327, DOI 10.1109/TIM.2009.2038307
+   Rahman MA, 2009, IEEE INT WORK MED ME, P22, DOI 10.1109/MEMEA.2009.5167947
+   Rasmussen KB, 2009, CCS'09: PROCEEDINGS OF THE 16TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P410
+   Rostami Masoud, 2013, P 2013 ACM SIGSAC C, P1099, DOI [10.1145/2508859, DOI 10.1145/2508859.2516658]
+   Sajid A, 2016, J MED SYST, V40, DOI 10.1007/s10916-016-0509-2
+   Su X, 2016, COMPUTER, V49, P49, DOI 10.1109/MC.2016.337
+   Toorani M, 2016, INT J COMMUN SYST, V29, P2471, DOI 10.1002/dac.3120
+   Varshney U, 2007, MOBILE NETW APPL, V12, P113, DOI 10.1007/s11036-007-0017-1
+   Wegmueller M. S., 2007, THESIS
+   Wegmueller MS, 2007, IEEE T BIO-MED ENG, V54, P1851, DOI 10.1109/TBME.2007.893498
+   Xu FY, 2011, IEEE INFOCOM SER, P1862, DOI 10.1109/INFCOM.2011.5934987
+   Yue X, 2016, J MED SYST, V40, DOI 10.1007/s10916-016-0574-6
+   Yuvaradni B., 2016, IMPERIAL J INTERDISC, V2
+   Zhang J., 2016, SYMMETRY, V8, P1
+NR 31
+TC 63
+Z9 65
+U1 4
+U2 84
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2016
+VL 4
+BP 9239
+EP 9250
+DI 10.1109/ACCESS.2016.2645904
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA EM8KS
+UT WOS:000395560800023
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Garrod, JZ
+AF Garrod, J. Z.
+TI The Real World of the Decentralized Autonomous Society
+SO TRIPLEC-COMMUNICATION CAPITALISM & CRITIQUE
+LA English
+DT Article
+DE Bitcoin; Blockchain; Ethereum; Capitalism; State
+ID COMMODITIES
+AB Many commentators have been quick to note the revolutionary potential of Bitcoin 2.0 technology, with some even believing that it represents the coming of a decentralized autonomous society in which humans are freed from centralized forms of power and control. Influenced by neoliberal theory, these individuals are implicitly working on the assumption that 'freedom' means freedom from the state. This neglects that the state can also provide freedom from the vagaries of the market by protecting certain things from commodification. Through an analysis of (1) class and the role of the state; (2) the concentration and centralization of capital; and (3) automation, I argue that the vision of freedom that underpins Bitcoin 2.0 tech is one that neglects the power that capital holds over us. In neglecting this power, I claim that this technology might be far more dystopian than we comprehend, making possible societies that are commodities all the way down.
+C1 [Garrod, J. Z.] Carleton Univ, Dept Sociol & Anthropol, Ottawa, ON, Canada.
+RP Garrod, JZ (reprint author), Carleton Univ, Dept Sociol & Anthropol, Ottawa, ON, Canada.
+EM jzgarrod@gmail.com
+OI Garrod, Joel/0000-0002-3951-7176
+CR Alchemi, 2015, LETS TALK BITCOIN
+   Allison Ian, 2015, INT BUSINESS TI 0727
+   Allison Ian, 2015, INT BUSINESS TI 0814
+   [Anonymous], 2013, REC DEV INV STAT DIS
+   Asaro Peter, 2015, BAN KILLER ROBOTS TH
+   Bauwens M, 2014, TRIPLEC-COMMUN CAPIT, V12, P356
+   BENSINGER G., 2013, WALL STREET J
+   BLOCH M, 1964, FEUDAL SOC
+   Bollier David, 2015, NEWS PERSPECTIV 0404
+   Bookchin M, 2015, NEXT REVOLUTION POPU
+   Brewer T, 2002, MARXIST THEORIES IMP
+   Burkitt Ian., 2008, SOCIAL SELVES THEORI
+   Buterin Vitalik, 2014, WHITE PAPER ETHEREUM
+   Buterin Vitalik, 2015, TRIPLE CANOPY
+   Buterin Vitalik, 2013, BITCOIN MAGAZIN 0919
+   Castells M., 2010, INFORM AGE EC SOC CU, V1
+   Clarkson S, 2010, LAW SOC SER, P1
+   Clippinger John H., 2014, BITCOIN BURNING MAN
+   De Filippi P, 2014, INTERNET POLICY REV, V3
+   De Filippi Primavera, 2014, ETHEREUM FREENET SKY
+   De Filippi Primavera, 2014, INTERNET POLICY REV
+   Dew Chris, 2015, MEDIUM
+   Dodd Nigel, 2014, SOCIAL LIFE MONEY
+   Dodd Nigel, 2015, KINGS REV MAGAZ 0314
+   Durkheim Emile, 1973, E DURKHEIM MORALITY
+   Dyer-Witheford Nick, 2015, CYBER PROLETARIAT GL
+   Elias Norbert, 2000, CIVILIZING PROCESS
+   Farole T., 2010, SPECIAL EC ZONES PER
+   Finley K., 2014, WIRED
+   Frank S., 2015, HARPERS MAGAZINE
+   Franklin Ursula M., 1999, CBC MASSEY LECT SERI
+   Fraser N, 2014, ECON SOC, V43, P541, DOI 10.1080/03085147.2014.898822
+   Freud S., 2010, CIVILIZATION ITS DIS
+   Friedman M., 1962, CAPITALISM FREEDOM
+   Hajdarbegovic Nermin, 2014, COINDESK        1119
+   Harvey D., 2005, BRIEF HIST NEOLIBERA
+   Harvey David, 2015, TRUTHOUT
+   Higgins Stan, 2015, COINDESK        0117
+   Inman Philip, 2015, GUARDIAN
+   Jaipuria Tanay, 2015, MEDIUM
+   Jeffries Stuart, 2015, GUARDIAN
+   Kang Matthew, 2014, BANK CANADA LOOKING
+   Karlstrom H, 2014, DISTINKTION SCANDINA, V15, P23, DOI DOI 10.1080/1600910X.2013.870083
+   Keynes J. M., 2009, ESSAYS PERSUASION
+   Kosner Anthony, 2014, FORBES
+   Kostakis V, 2014, TRIPLEC-COMMUN CAPIT, V12, P431
+   Larimer Stan, 2013, LETS TALK BITCO 0914
+   Lessig L., 2000, HARVARD MAGAZINE
+   MacPherson C. B., 2010, POLITICAL THEORY POS
+   Macpherson C. B., 1965, CBC MASSEY LECT SERI
+   Macpherson C.B., 1973, DEMOCRATIC THEORY ES
+   Mandeville Bernard, 2007, FABLE BEES PRIVATE V
+   Marx Karl, 1991, CAPITAL, V1
+   Mason P., 2015, GUARDIAN
+   Mazzucato Mariana, 2014, ENTREPRENEURIAL STAT
+   McCarthy S., 2012, EUROPEAN J LAW TECHN, V3
+   Meltzer T., 2014, GUARDIAN
+   Nakamoto S., 2012, CONSULTED, V1, P28
+   O'Dwyer Rachel, 2015, COMMONS TRANSIT 0611
+   Oberhaus Daniel, 2015, MOTHERBOARD     0413
+   Osborne C., 2014, FOUNDERS GRID   0123
+   Patron Travis, 2014, BITCOIN REVOLUTION D
+   Perlberg Steven, 2013, BERNANKE BITCOIN MAY
+   Piercy Marge, 1993, HE SHE AND IT
+   Polanyi Karl, 2002, GREAT TRANSFORMATION
+   Pollen Satoshi, 2013, BITCOIN IS TRANSITIO
+   Popper N., 2015, NY TIMES
+   Rand Ayn, 1964, VIRTUE SELFISHNES 50
+   REICH CA, 1964, YALE LAW J, V73, P733, DOI 10.2307/794645
+   Rifkin J., 2014, ZERO MARGINAL COST S
+   Robinson Chris, 2015, DECENTRALIZATION MEG
+   ROBINSON W, 2004, THEORY GLOBAL CAPITA
+   Sassen S, 2003, REV INT POLIT ECON, V10, P1, DOI 10.1080/0969229032000048853
+   Schneider Nathan, 2015, CODE YOUR OWN UTOPIA
+   Scott B., 2014, E INT RELATIONS
+   Sen Jai, 2004, WORLD SOCIAL FORUM C
+   Simmel, 1972, G SIMMEL INDIVIDUALI
+   Smith Adam, 2001, WEALTH NATIONS
+   Smith Jack, 2015, OBSERVER
+   Snyder Jesse, 2015, ALBERTA OIL MAG 0316
+   Staedter Tracy, 2015, DNEWS           0826
+   Stone Oliver, 1987, WALL STREET
+   Szabo N, 1997, IDEA SMART CONTRACTS
+   Taafe Peter, 2014, SOCIALIST ALTERNATIV
+   Taylor C., 2004, MODERN SOCIAL IMAGIN
+   TEEPLE G, 2004, RIDDLE HUMAN RIGHTS
+   TEEPLE G, 2000, GLOBALIZATION DECLIN
+   Teixeira RA, 2012, REV RADICAL POL ECON, V44, P448, DOI 10.1177/0486613411434387
+   Thorp Noah, 2015, MEDIUM
+   Vigna P, 2015, AGE CRYPTOCURRENCY B
+   Vitali S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0025995
+   Volpicelli Gian, 2015, MOTHERBOARD
+   Winters J., 2011, OLIGARCHY
+   Wood EM, 2002, ORIGIN CAPITALISM LO
+   1993, ECOLOGIST
+NR 95
+TC 7
+Z9 7
+U1 0
+U2 43
+PU TRIPLEC
+PI NORTHWICK PARK
+PA WATFORD RD, NORTHWICK PARK, HA1 3TP, ENGLAND
+SN 1726-670X
+J9 TRIPLEC-COMMUN CAPIT
+JI TRIPLEC-Commun. Capital. Crit.
+PY 2016
+VL 14
+IS 1
+BP 62
+EP 77
+PG 16
+WC Communication
+SC Communication
+GA DV1HX
+UT WOS:000382673000005
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Lemieux, VL
+AF Lemieux, Victoria Louise
+TI Trusting records: is Blockchain technology the answer?
+SO RECORDS MANAGEMENT JOURNAL
+LA English
+DT Article
+DE Reliability; Authenticity; Risk; Digital preservation; Blockchain;
+   Trusted digital repository
+AB Purpose - The purpose of this paper is to explore the value of Blockchain technology as a solution to creating and preserving trustworthy digital records, presenting some of the limitations, risks and opportunities of the approach.
+   Design/methodology/approach - The methodological approach involves using the requirements embedded in records management and digital preservation standards, specifically ISO 15,489, ARMA's Generally Accepted Recordkeeping Principles, ISO 14,721 and ISO 16,363, as a general evaluative framework for a risk-based assessment of a specific proposed implementation of Blockchain technology for a land registry system in a developing country.
+   Findings - The results of the analysis suggest that Blockchain technology can be used to address issues associated with information integrity in the present and near term, assuming proper security architecture and infrastructure management controls. It does not, however, guarantee reliability of information in the first place, and would have several limitations as a long-term solution for maintaining trustworthy digital records.
+   Originality/value - This paper contributes an original analysis of the application of Blockchain technology for recordkeeping.
+C1 [Lemieux, Victoria Louise] Univ British Columbia, Sch Lib Archival & Informat Studies, Vancouver, BC, Canada.
+RP Lemieux, VL (reprint author), Univ British Columbia, Sch Lib Archival & Informat Studies, Vancouver, BC, Canada.
+EM vlemieux@mail.ubc.ca
+CR Aas K., 2014, CASE STUDY DIGITAL R
+   Almgren H., 2015, MAINTAIN AUTHENTICIT
+   [Anonymous], 2015, ECONOMIST
+   ARMA International, 2013, GEN ACC REC PRINC
+   Australian Stock Exchange, 2016, ASX SEL DIG ASS HOLD
+   Bitcoin.org, 2015, DEV GUID
+   Bitcoinwiki, 2015, WEAKN
+   Bitcoinwiki, 2015, BLOCK HASH ALG
+   CCSDS, 2012, REF MOD OP ARCH INF
+   Chavez-Dreyfuss G., 2015, REUTERS
+   Cohen B., 2015, THE COIN TELEGRAPH
+   Coindesk, 2015, WHO IS S NAK
+   Culubas, 2011, TIM BITC
+   DLM Forum Foundation, 2010, MOREQ2010 MOD REQ RE
+   Duranti L., 1997, Archives and Museum Informatics, V11, P213, DOI 10.1023/A:1009025127463
+   Duranti L., 1990, ARCHIVARIA, V30, P4
+   Duranti L, 2012, COMPUT LAW SECUR REV, V28, P522, DOI 10.1016/j.clsr.2012.07.009
+   Eskandari S., 2015, 1 LOOK USBAILITY BIT
+   Findlay C., 2015, RECODKEEPING ROUNDTA
+   Franco E., 2015, INSIDE CHINESE BITCO
+   Giarretta D., 2009, IPRES 2009 6 INT C P, P67
+   Giarretta D., 2011, ADV DIGITAL PRESERVA
+   Government of Canada Standing Senate Committee on Banking Trade and Finance, 2015, DIG CURR YOU CANT FL
+   Government of Honduras, 2004, LEY PROP PROP LAW
+   International Council on Archives, 2007, INT STAND DESCR FUNC
+   InterPARES, 2015, TERM DAT
+   ISO/IEC, 2001, 1548912001 ISOIEC
+   ISO/IEC, 2012, 147212012 ISOIEC
+   ISO/IEC, 2012, 163632012 ISOIEC
+   ISO/IEC, 2013, 270012013 ISOIEC
+   Johnston T., 2014, SL VALL ETH M
+   Kreiger D., 2013, DEADLY CLEAR
+   Levy J., 2014, COINDESK
+   Mak B., 2014, ENCY ARCH SCI
+   Merriam-Webster, 2015, MERRIAM WEBSTER ONLI
+   Miller A, 2014, P IEEE S SECUR PRIV, P475, DOI 10.1109/SP.2014.37
+   Nakamoto S., 2009, BITCOIN PEER TO PEER
+   OCLC/RLG Working Group on Preservation Metadata, 2002, METADATA FRAMEWORK S
+   Rogers C., 2015, THESIS
+   ROSENTHAL D, 2005, D LIB MAGAZINE, V11
+   Snow P., 2015, FACTOM LEDGER CONSEN
+   Snow  P., 2014, FACTOM BUSINESS PROC
+   Szabo N., 2005, SECURE PROPERTY TITL
+   USAID, 2010, USAID COUNTR PROF PR
+   Wild J., 2015, FINANCIAL TIMES
+   World Bank, 2015, HOND OV
+   Yeo G, 2013, ARCH REC, V34, P214, DOI 10.1080/23257962.2013.825207
+NR 47
+TC 56
+Z9 57
+U1 6
+U2 165
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0956-5698
+EI 1758-7689
+J9 REC MANAG J
+JI Rec. Manag. J.
+PY 2016
+VL 26
+IS 2
+BP 110
+EP 139
+DI 10.1108/RMJ-12-2015-0042
+PG 30
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA DU9LT
+UT WOS:000382539500001
+DA 2020-04-21
+ER
+
+PT J
+AU Dubey, A
+   Hill, GD
+   Escriva, R
+   Sirer, EG
+AF Dubey, Ayush
+   Hill, Greg D.
+   Escriva, Robert
+   Sirer, Emin Gun
+TI Weaver: A High-Performance, Transactional Graph Database Based on
+   Refinable Timestamps
+SO PROCEEDINGS OF THE VLDB ENDOWMENT
+LA English
+DT Article
+ID COMPUTATION
+AB Graph databases have become a common infrastructure component. Yet existing systems either operate on offline snapshots, provide weak consistency guarantees, or use expensive concurrency control techniques that limit performance. In this paper, we introduce a new distributed graph database, called Weaver, which enables efficient, transactional graph analyses as well as strictly serializable ACID transactions on dynamic graphs. The key insight that allows Weaver to combine strict serializability with horizontal scalability and high performance is a novel request ordering mechanism called refinable timestamps. This technique couples coarse-grained vector timestamps with a fine-grained timeline oracle to pay the overhead of strong consistency only when needed. Experiments show that Weaver enables a Bitcoin blockchain explorer that is 8x faster than Blockchain. info, and achieves 10 : 9x higher throughput than the Titan graph database on social network workloads and 4x lower latency than GraphLab on offline graph traversal workloads.
+C1 [Dubey, Ayush; Escriva, Robert; Sirer, Emin Gun] Cornell Univ, Ithaca, NY 14853 USA.
+   [Hill, Greg D.] Stanford Univ, Stanford, CA 94305 USA.
+RP Dubey, A (reprint author), Cornell Univ, Ithaca, NY 14853 USA.
+FU National Science FoundationNational Science Foundation (NSF)
+   [CNS-1518779]
+FX We are grateful to the anonymous reviewers as well as colleagues who
+   provided insightful feedback on earlier drafts of the paper. This
+   material is based upon work supported by the National Science Foundation
+   under Grant No. CNS-1518779. Any opinions, findings, and conclusions or
+   recommendations expressed in this material are those of the authors and
+   do not necessarily reflect the views of the National Science Foundation.
+CR Backstrom L, 2006, P 12 ACM SIGKDD INT, V12, P44, DOI DOI 10.1145/1150402.1150412
+   Bronson Nathan, 2013, USENIX ANN TECHN C M, P49
+   Bu Y., 2014, PVLDB, V8
+   Chen R., 2015, EUROSYS
+   Chen R., 2012, SOCC, P25
+   Cheng Raymond, 2012, P 7 ACM EUR C COMP S, P85, DOI DOI 10.1145/2168836.2168846
+   Ching A, 2015, PROC VLDB ENDOW, V8, P1804, DOI 10.14778/2824032.2824077
+   Corbett J. C., 2012, P 10 USENIX C OP SYS, P251
+   Yan D, 2014, PROC VLDB ENDOW, V7, P1981, DOI 10.14778/2733085.2733103
+   Ding BL, 2015, ACM SOCC'15: PROCEEDINGS OF THE SIXTH ACM SYMPOSIUM ON CLOUD COMPUTING, P262, DOI 10.1145/2806777.2806837
+   Dragojevic A, 2015, SOSP'15: PROCEEDINGS OF THE TWENTY-FIFTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P54, DOI 10.1145/2815400.2815425
+   Escriva R., 2014, EUROSYS
+   Escriva Robert, 2015, CORR
+   Faleiro JM, 2015, PROC VLDB ENDOW, V8, P1190, DOI 10.14778/2809974.2809981
+   Fidge C., 1988, P 11 AUSTR COMP SCI, V10, P56
+   Garcia-Molina H, 2009, DATABASE SYSTEMS
+   Gedik B., 2014, IEEE T KNOWLEDGE DAT, V26
+   Gonzalez J. E., 2014, OSDI
+   Gonzalez J.E., 2012, 10 USENIX S OP SYST, V12, P17, DOI DOI 10.1145/74850.74870
+   GRAY J, 1978, NOTES DATA BASE OPER
+   Han MY, 2015, PROC VLDB ENDOW, V8, P950, DOI 10.14778/2777598.2777604
+   Han W., 2014, EUROSYS
+   Iordanov B, 2010, LECT NOTES COMPUT SC, V6185, P25, DOI 10.1007/978-3-642-16720-1_3
+   Khayyat Z, 2013, P 8 ACM EUR C COMP S, P169, DOI DOI 10.1145/2465351.2465369
+   KUNG HT, 1981, ACM T DATABASE SYST, V6, P213, DOI 10.1145/319566.319567
+   Kwak H., 2010, WWW, P591, DOI DOI 10.1145/1772690.1772751
+   Kyrola A., 2014, CORR
+   Kyrola A., 2012, OSDI, V12, P31
+   Lamport L, 1998, ACM T COMPUT SYST, V16, P133, DOI 10.1145/279227.279229
+   Levandoski J. J, 2015, CIDR
+   Li Z., 2006, P 1 WORKSH ARCH SYST, P25, DOI DOI 10.1145/1181309.1181314
+   Lu H., 2015, SOSP
+   Malewicz G., 2010, P 2010 ACM SIGMOD IN, P135, DOI DOI 10.1145/1807167.1807184
+   McAuley JJ, 2012, NIPS, V2012, P548
+   McSherry F., 2015, HOTOS WORKSH MAY
+   MURRAY DG, 2013, SOSP, P439
+   Najork M, 2009, 20TH ACM CONFERENCE ON HYPERTEXT AND HYPERMEDIA (HYPERTEXT 2009), P89
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Neumann T, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P677, DOI 10.1145/2723372.2749436
+   Nishimura J, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P1106
+   Prabhakaran Vijayan, 2012, USENIX ATC 12, P41
+   Reed D., 1978, TECHNICAL REPORT
+   Roy A, 2013, SOSP'13: PROCEEDINGS OF THE TWENTY-FOURTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P472, DOI 10.1145/2517349.2522740
+   Salihoglu S., 2013, SSDBM
+   Saxena A., 2015, TECHNICAL REPORT
+   SCHNEIDER FB, 1990, ACM COMPUTING SURVEY, V22
+   Shao Bin, 2013, P 2013 ACM SIGMOD IN, P505, DOI DOI 10.1145/2463676.2467799
+   Smith P., 2015, COMMUNICATION
+   Stantion I., 2012, P 18 ACM SIGKDD INT, P1222, DOI DOI 10.1145/2339530.2339722
+   Sun W, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1887, DOI 10.1145/2723372.2723732
+   Tian Y, 2013, PROC VLDB ENDOW, V7, P193, DOI 10.14778/2732232.2732238
+   Ugander J., 2011, CORR
+   van Renesse R, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE SIXTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDE '04), P91
+   Wang Kai, 2015, USENIX ATC, P387
+   Xie WL, 2013, PROC VLDB ENDOW, V6, P2014, DOI 10.14778/2556549.2556581
+   Yan D, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P1307, DOI 10.1145/2736277.2741096
+   Zhou C, 2014, PROC VLDB ENDOW, V8, P377, DOI 10.14778/2735496.2735501
+   Zhu Xiaowei, 2015, USENIX ANN TECHN C M, P375
+NR 58
+TC 7
+Z9 8
+U1 0
+U2 17
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 2150-8097
+J9 PROC VLDB ENDOW
+JI Proc. VLDB Endow.
+PD JUL
+PY 2016
+VL 9
+IS 11
+BP 852
+EP 863
+DI 10.14778/2983200.2983202
+PG 12
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA EA2NM
+UT WOS:000386430500002
+DA 2020-04-21
+ER
+
+PT J
+AU Jin, R
+   He, XX
+   Zhu, GX
+AF Jin Rong
+   He Xiong-xiong
+   Zhu Guang-xin
+TI A Composition Method of Logical Function Block Chain
+SO INTERNATIONAL JOURNAL OF FUTURE GENERATION COMMUNICATION AND NETWORKING
+LA English
+DT Article
+DE SDN; ForCES; Logical Function Block; Composition
+AB ForCES is a new open programmable architecture, it separates control and forwarding, it also abstracts resources of Forwarding Elements (FE) into some Logical Function Blocks (LFB), Control Element (CE) can reconfigure the forwarding function of FEs by recomposing their LFB chains. Firstly, A SDN architecture based on ForCES is proposed. Then, based on the formalization of the concept of LFB and the traditional I/O matching algorithm, an LFB chain composition method is proposed. This method can combine a series of LFBs to an LFB chain according to special application request. Based on the LFB chain composition algorithm, an improved algorithm is proposed, which can improve the composition efficiency. At last, an example is provided to illustrate how this method works, and a simulation is given to compare the efficiency of the base algorithm and the improved algorithm.
+C1 [Jin Rong; He Xiong-xiong] Zhejiang Univ Technol, Coll Informat, Hangzhou 310014, Zhejiang, Peoples R China.
+   [Jin Rong] Zhejiang Gongshang Univ, Coll Informat & Elect Engn, Hangzhou 310018, Peoples R China.
+   [Zhu Guang-xin] OB Telecom Elect Co Ltd, Hangzhou 310012, Zhejiang, Peoples R China.
+RP Jin, R; He, XX (reprint author), Zhejiang Univ Technol, Coll Informat, Hangzhou 310014, Zhejiang, Peoples R China.; Jin, R (reprint author), Zhejiang Gongshang Univ, Coll Informat & Elect Engn, Hangzhou 310018, Peoples R China.; Zhu, GX (reprint author), OB Telecom Elect Co Ltd, Hangzhou 310012, Zhejiang, Peoples R China.
+EM jinrong@mail.zjgsu.edu.cn; hxx@zjut.edu.cn; hans@obtelecom.com
+CR Doria A., 2010, IETF RFC 5810 FORCES
+   Feamster N., 2013, ACM QUEUE
+   Fu Y.N., 2007, J COMMUNICATIONS SER, V7
+   Haleplidis E., 2013, FORWARDING CONTROL E, V03
+   Halpern J., 2010, FORWARDING CONTROL E
+   Hares S., 2012, ANAL COMP OPENFLOW F
+   Hares S., 2012, COMMUNICATION
+   Huss P., 2014, INT J FUTURE GENERAT, V7
+   Liu S.P., 2010, J JILIN U ENG TECHNO, V1
+   Manu A.P., 2012, INT J FUTURE GENERAT, V5
+   McKeown Nick, 2008, ACM SIGCOMM COMPUTER
+   Nunes B.A.A., 2014, IEEE, V16
+   Wang W., 2013, IETF RFC 6956 FORWAR
+   Zheng D.R., 2009, J INFORM ENG U MATCH, V2
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 6
+PU SCIENCE & ENGINEERING RESEARCH SUPPORT SOC
+PI DAEJON
+PA RM 402, MAN-JE BLDG, 449-8 OJUNG-DONG, DAEDOEK-GU, DAEJON, 00000, SOUTH
+   KOREA
+SN 2233-7857
+J9 INT J FUTUR GENER CO
+JI Int. J. Futur. Gener. Commun. Netw.
+PD MAR
+PY 2016
+VL 9
+IS 3
+BP 57
+EP 68
+DI 10.14257/ijfgcn.2016.9.3.06
+PG 12
+WC Telecommunications
+SC Telecommunications
+GA DM7VJ
+UT WOS:000376567800006
+OA Bronze
+DA 2020-04-21
+ER
+
+PT J
+AU Yoshida, E
+AF Yoshida, Eri
+TI Morphological changes in giant vesicles comprised of amphiphilic block
+   copolymers by incorporation of ionic segments into the hydrophilic block
+   chain
+SO COGENT CHEMISTRY
+LA English
+DT Article
+DE morphological changes; amphiphilic diblock copolymers; giant vesicles;
+   film-like bilayer; ionic segments
+ID RANDOM-METHACRYLIC ACID); RANDOM-MATHACRYLIC ACID); RADICAL
+   POLYMERIZATION; MEMBRANE; BINDING; DOMAIN; CURVATURE; PROTEINS; BILAYERS
+AB The morphological changes in giant spherical vesicles comprised of amphilhilic poly(methacrylic acid)-block-poly(methyl methacrylate-random-methacrylic acid), PMAA-b-P(MMA-r-MAA), by incorporation of the 3-sulfopropyl methacrylate potassium salt (SpMA) into the hydrophilic PMAA block chains were investigated. The vesicles were reduced in size as the SpMA ratio increased due to the variation in the critical packing shape by the expansion of the hydrophilic surface area by the incorporation of the more hydrophilic ionic segments. The increase in the SpMA ratio also delayed the transition from the spherical vesicles to a film-like bilayer. The giant vesicles containing the SpMA segments were disrupted into a nonspecific form by the electrostatic interaction with poly(allylamine hydrochloride) at a 2.5 M ratio of the unit for the allylamine hydrochloride (AH) to the SpMA. A large excess of the AH/SpMA above 5.0 caused no disruption, but partial fusion of the vesicles accompanied by a decrease in size.
+C1 [Yoshida, Eri] Toyohashi Univ Technol, Dept Environm & Life Sci, 1-1 Hibarigaoka,Tempaku Cho, Toyohashi, Aichi 4418580, Japan.
+RP Yoshida, E (reprint author), Toyohashi Univ Technol, Dept Environm & Life Sci, 1-1 Hibarigaoka,Tempaku Cho, Toyohashi, Aichi 4418580, Japan.
+EM eyoshida@ens.tut.ac.jp
+RI Yoshida, Eri/R-2510-2018
+OI Yoshida, Eri/0000-0001-7001-2515
+FU JSPSMinistry of Education, Culture, Sports, Science and Technology,
+   Japan (MEXT)Japan Society for the Promotion of Science [25390003]
+FX This work was financially supported by JSPS Grant-in-Aid for Scientific
+   Research [grant number 25390003].
+CR ANDERSON RGW, 1977, CELL, V10, P351, DOI 10.1016/0092-8674(77)90022-8
+   Bigay J, 2012, DEV CELL, V23, P886, DOI 10.1016/j.devcel.2012.10.009
+   BRANTON D, 1981, CELL, V24, P24, DOI 10.1016/0092-8674(81)90497-9
+   CULLIS PR, 1979, BIOCHIM BIOPHYS ACTA, V559, P399, DOI 10.1016/0304-4157(79)90012-1
+   ELGSAETER A, 1986, SCIENCE, V234, P1217, DOI 10.1126/science.3775380
+   Elston T, 1998, NATURE, V391, P510
+   Ford MGJ, 2002, NATURE, V419, P361, DOI 10.1038/nature01020
+   Frey TG, 2000, TRENDS BIOCHEM SCI, V25, P319, DOI 10.1016/S0968-0004(00)01609-1
+   HYVONEN M, 1995, EMBO J, V14, P4676, DOI 10.1002/j.1460-2075.1995.tb00149.x
+   ISRAELACHVILI JN, 1976, J CHEM SOC FARAD T 2, V72, P1525, DOI 10.1039/f29767201525
+   Itoh T, 2001, SCIENCE, V291, P1047, DOI 10.1126/science.291.5506.1047
+   Johnson JE, 1999, MOL MEMBR BIOL, V16, P217, DOI 10.1080/096876899294544
+   KIM JY, 1991, BIOPHYS J, V60, P135, DOI 10.1016/S0006-3495(91)82037-9
+   KOBAYASHI S, 1990, POLYM J, V22, P759, DOI 10.1295/polymj.22.759
+   MIYAZAWA T, 1985, J ORG CHEM, V50, P1332, DOI 10.1021/jo00208a047
+   Nishi T, 2002, NAT REV MOL CELL BIO, V3, P94, DOI 10.1038/nrm729
+   Oancea E, 1998, CELL, V95, P307, DOI 10.1016/S0092-8674(00)81763-8
+   Popot JL, 2000, ANNU REV BIOCHEM, V69, P881, DOI 10.1146/annurev.biochem.69.1.881
+   Rizo J, 1998, J BIOL CHEM, V273, P15879, DOI 10.1074/jbc.273.26.15879
+   Sadava D. E., 1993, CELL BIOL ORGANELLE, P130
+   Yoshida E., 2012, ISRN POLYM SCI
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P3641, DOI 10.1007/s00396-015-3763-9
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P2437, DOI 10.1007/s00396-015-3679-4
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P1835, DOI 10.1007/s00396-015-3577-9
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P1841, DOI 10.1007/s00396-015-3600-1
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P649, DOI 10.1007/s00396-014-3482-7
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P249, DOI 10.1007/s00396-014-3403-9
+   Yoshida E, 2015, SUPRAMOL CHEM, V27, P274, DOI 10.1080/10610278.2014.959014
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P2555, DOI 10.1007/s00396-014-3297-6
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P1463, DOI 10.1007/s00396-014-3216-x
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P763, DOI 10.1007/s00396-013-3154-z
+   Yoshida E, 2013, COLLOID POLYM SCI, V291, P2733, DOI 10.1007/s00396-013-3056-0
+   Yoshida E, 2009, COLLOID POLYM SCI, V287, P767, DOI 10.1007/s00396-009-2023-2
+NR 33
+TC 2
+Z9 2
+U1 0
+U2 8
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN 2331-2009
+J9 COGENT CHEM
+JI Cogent Chem.
+PY 2016
+VL 2
+AR UNSP 1212319
+DI 10.1080/23312009.2016.1212319
+PG 15
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA DZ3SW
+UT WOS:000385770600001
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Irwin, ASM
+   Milad, G
+AF Irwin, Angela S. M.
+   Milad, George
+TI The use of crypto-currencies in funding violent jihad
+SO JOURNAL OF MONEY LAUNDERING CONTROL
+LA English
+DT Article
+DE Terrorism financing; Bitcoin; Crypto-currency; Digital currency; Islamic
+   state/ISIS; Violent jihad
+AB Purpose - The purpose of this paper is to look at current discourse on the topic of crypto-currencies, more specifically Bitcoins, and their application to funding acts of terror. The paper clearly establishes the risks posed by this new payment technology and value transfer system to assist in the process of funding, planning and implementing acts of terror.
+   Design/methodology/approach - Publications, blogs and sites published and administered by terrorists groups and their supporters are examined to determine their interest in leveraging emerging payment and value transfer systems to facilitate the funding, planning and implementation of terror attacks. Press releases and other publications are also examined to determine whether cryptocurrencies have been used by these groups in fund raising, fund transfer or recent terror attacks.
+   Findings - Although it is difficult to find concrete evidence of largescale use of Bitcoins and other crypto-currencies by terrorist groups and their supporters, there is strong evidence to suggest that they have been linked to a number of terror attacks in Europe and Indonesia. Supporters of Islamic State of Iraq and Syria (ISIS), jihadists and terrorist organisations are actively looking to and promoting the use of new and emerging technologies, such as Bitcoin, to mitigate some of the risks associated with traditional fund transfer methods. Some websites associated with terrorist organisations have started to collect donations in Bitcoins. Many Bitcoin ATMs and Bitcoin exchanges are located in countries that have seen significant numbers of foreign fighters join ISIS in the Middle East and are also positioned in countries that have seen increased risk of terror attack. These present a significant risk because they allow for the seamless, anonymous transfer of funds to and from terrorist groups and their supporters. The paper highlights the need for further in-depth research into reliable ways to circumvent the current difficulties experienced in differentiating illicit transactions from legitimate ones and establishing reliable means of attribution.
+   Originality/value - Using a document published by ISIS, which provides would-be jihadists detailed instructions on how they can get to Syria or Iraq without being detected, a set of models were created showing how this could be achieved using Bitcoins alone. From this scenario, red flag indicators and suspicious behaviour models have been created to determine whether they can be identified during detailed analysis of the Bitcoin blockchain which will be conducted in later stages of research.
+C1 [Irwin, Angela S. M.; Milad, George] Macquarie Univ, Ctr Policing Intelligence & Counter Terrorism, Sydney, NSW, Australia.
+RP Irwin, ASM (reprint author), Macquarie Univ, Ctr Policing Intelligence & Counter Terrorism, Sydney, NSW, Australia.
+EM angela.irwin@mq.edu.au
+OI Irwin, Angela/0000-0003-0477-0953
+CR Akbar J., 2015, DAILY MAIL AUST 0813
+   Aldridge J., 2014, NOT EBAY DRUGS CRYPT
+   [Anonymous], 2014, FORBES
+   Bertrand N., 2015, HERES EXAMPLE EASY I
+   Blanchard Christopher M., 2007, CRS REP C
+   Chargualaf J., 2008, TERRORISM CYBERCRIME
+   Chulov M, 2014, GUARDIAN
+   Coin ATM Radar, 2015, BITC ATM IND STAT CH
+   CoinCompare.com, 2014, BITC EXCH COMP
+   Coindesk, 2015, HOW TO SELL BITC
+   CoinMarketCap, 2014, CRYPT CURR MARK CAP
+   Colombo J, 2013, FORBES
+   Combatting Terrorism Center, 2014, FIN TERR BIT BIT
+   Delaney P.J., 2014, CRYPTO COIN NEWS AUG
+   Department of the Treasury Washington DC, 2015, NAT TERR FIN RISK AS
+   DiGiovanni J., 2014, NEWS WEEK       1114
+   Duhaime C., 2015, ISIS INVENTS NEW TYP
+   Durmaz H., 2007, NATO SECURITY SCI SE, V19
+   Edwards J., 2015, AM TEENAGER PLEADS G
+   Edwards J., 2013, CLAIM BITCOIN IS BAS
+   FATF-GAFI, 1999, REP MON LAUND TYP 19
+   FBI, 2012, BITC VIRT CURR INT
+   Gonzalez E, 2013, NEXUS HUMAN TRAFFICK
+   Graydon C, 2014, CRYPTO COIN NEW 0830
+   Jihad Money, 2015, ISIS MONEY MAN DESCR
+   Koksal N, 2015, CBC NEWS
+   Laville Sandra, 2014, GUARDIAN
+   Makarenko Tamara, 2004, GLOBAL CRIME, V6, P129, DOI DOI 10.1080/1744057042000297025
+   Martin J, 2014, CRIMINOL CRIM JUSTIC, V14, P351, DOI 10.1177/1748895813505234
+   MOORE H, 2013, [No title captured]
+   Moore Jack, 2015, INT BUSINESS TIMES
+   Nardo M., 2006, J FINANCIAL CRIME, V13
+   National Commission on Terrorist Attacks upon the USA, 2004, AL QAED AIMS AM HOM
+   Nauert H., 2015, FOX NEWS
+   Paganini P., 2012, GOOD BAD DEEP WEB
+   Pick L., 2015, FINANCE MAGNATES
+   Prober J., 2005, ACCOUNTING TERROR DE
+   Protalinksi E., 2014, THE NEXT WEB
+   Richet J.L., 2013, LAUNDERING MONEY ONL
+   Roggio Bill, 2015, LONG WAR J
+   Sameeh T., 2015, NEWSBTC
+   Sanders L., 2015, BITCOIN ISLAMIC STAT
+   Southurst J., 2014, AUSTR FEDERAL INVEST
+   Spaven E., 2013, COINEVA ALLOWS IRANI
+   Spaven E., 2013, ROBOCOIN BITCOIN ATM
+   Surowiecki James, 2011, Technology Review, V114, P106
+   Temple-Raston D., 2014, MUCH DOES TERRORIST
+   Tilsley P, 2015, FOX NEWS
+   Wile R., 2014, BUSINESS INSIDE 0708
+   Zetter K., 2012, WIRED           0905
+NR 50
+TC 11
+Z9 11
+U1 2
+U2 29
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1758-7808
+EI 1368-5201
+J9 J MONEY LAUND CONTRO
+JI J. Money Laund. Control
+PY 2016
+VL 19
+IS 4
+BP 407
+EP 425
+DI 10.1108/JMLC-01-2016-0003
+PG 19
+WC Criminology & Penology
+SC Criminology & Penology
+GA EG0WU
+UT WOS:000390753800008
+DA 2020-04-21
+ER
+
+PT J
+AU Wang, HQ
+   Chen, K
+   Xu, DM
+AF Wang, Huaiqing
+   Chen, Kun
+   Xu, Dongming
+TI A maturity model for blockchain adoption
+SO FINANCIAL INNOVATION
+LA English
+DT Article
+DE Blockchain; Technology adoption; Maturity model
+AB Background: The rapid development of the blockchain technology and its various applications has rendered it important to understand the guidelines for adopting it.
+   Methods: The comparative analysis method is used to analyze different dimensions of the maturity model, which is mainly based on the commonly used capability maturity model.
+   Results: The blockchain maturity model and its adoption process have been discussed and presented.
+   Conclusions: This study serves as a guide to institutions to make blockchain adoption decisions more systematically.
+C1 [Wang, Huaiqing] Rongxin Internet Finance Grp, Shenzhen, Peoples R China.
+   [Chen, Kun] South Univ Sci & Technol China, Shenzhen, Peoples R China.
+   [Xu, Dongming] Univ Queensland, Brisbane, Qld, Australia.
+RP Chen, K (reprint author), South Univ Sci & Technol China, Shenzhen, Peoples R China.
+EM chenk@sustc.edu.cn
+RI Xu, Dongming/O-1554-2018
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [71601090]
+FX This study was funded by National Natural Science Foundation of China
+   (No. 71601090).
+CR Blockchain, 2016, 5 BILL OPP REINS
+   Crosby M, 2016, TECHNICAL REPORT
+   Curtis B., 1995, CMUSEI95MM01
+   Herbsleb J, 1997, COMMUN ACM, V40, P30, DOI 10.1145/255656.255692
+   Park SH, 2012, MIS Q EXEC, V11, P127
+   Peck ME, 2016, IEEE SPECTRUM, V53, P12, DOI 10.1109/MSPEC.2016.7473136
+   Poppelbuss J, 2011, COMMUN ASSOC INF SYS, V29
+NR 7
+TC 18
+Z9 19
+U1 2
+U2 48
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2199-4730
+J9 FINANC INNOV
+JI Financ. Innov.
+PD DEC
+PY 2016
+VL 2
+IS 1
+AR UNSP 12
+DI 10.1186/s40854-016-0031-z
+PG 5
+WC Business, Finance; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA FJ8XI
+UT WOS:000413051500012
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU Shi, N
+AF Shi, Ning
+TI A new proof-of-work mechanism for bitcoin
+SO FINANCIAL INNOVATION
+LA English
+DT Article
+DE Digital currency; Consensus mechanism; Bitcoin; proof-of-work
+AB Background: Bitcoin system, when more than 51% computing power is controlled by a single node, the block chain can be distorted maliciously. This is called 51% attack which is a well-known potential risk that could destroy the Bitcoin system.
+   Method: The paper proves that under the current proof-of-work mechanism, computing power eventually will be centralized at a single node if miners are rational enough.
+   Result: The paper propose a new proof-of-work mechanism that improves decentralization and reduces the risk of 51% attack without increasing the risk of Sybil attack.
+   Concusions: This new mechanism introduces a series of principles such as Career open to all talents, without distinction of birth, Distribution according to labor and All Men are created equal.
+C1 [Shi, Ning] Sun Yat Sen Univ, Sch Business, Guangzhou, Guangdong, Peoples R China.
+RP Shi, N (reprint author), Sun Yat Sen Univ, Sch Business, Guangzhou, Guangdong, Peoples R China.
+EM shiningchina08@126.com
+CR Andrychowicz M, 2014, P IEEE S SECUR PRIV, P443, DOI 10.1109/SP.2014.35
+   Bannon S, 2016, THE TAO OF THE DAO
+   Beikverdi A, 2015, SOFTW ENG ART INT NE, P1, DOI [10.1109/SNPD.2015.7176229, DOI 10.1109/SNPD.2015.7176229]
+   Bohme R, 2015, J ECON PERSPECT, V29, P213, DOI 10.1257/jep.29.2.213
+   Bonneau J, 2015, P IEEE S SECUR PRIV, P104, DOI 10.1109/SP.2015.14
+   Eyal I, 2013, COMPUTER SCI, V8437, P436
+   Gervais A, 2014, IEEE SECUR PRIV, V12, P54, DOI 10.1109/MSP.2014.49
+   Heilman E, 2015, FINANCIAL CRYPTOGRAP, P161
+   Karame G., 2012, IACR CRYPTOLOGY EPRI, V2012, P248
+   Kokoris-Kogias E, 2016, ARXIV160206997, P3
+   Kroll J. A., 2013, P WORKSH EC INF SEC, P1
+   Luu L, 2015, 2015 IEEE 28TH COMPUTER SECURITY FOUNDATIONS SYMPOSIUM CSF 2015, P397, DOI 10.1109/CSF.2015.34
+   Miers I, 2013, P IEEE S SECUR PRIV, P397, DOI 10.1109/SP.2013.34
+   Nakamoto Satoshi, 2009, BITCOIN PEER TO PEER, P1
+   Narayanan A., 2016, BITCOIN CRYPTOCURREN
+   Poelstra A., 2014, DISTRIBUTED CONSENSU
+   Rosenfeld M, 2011, ARXIV11124980CSDC
+   Vasek M, 2014, LECT NOTES COMPUT SC, V8438, P57, DOI 10.1007/978-3-662-44774-1_5
+   Yermack D., 2013, HDB DIGITAL CURRENCY
+NR 19
+TC 7
+Z9 7
+U1 0
+U2 17
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2199-4730
+J9 FINANC INNOV
+JI Financ. Innov.
+PD DEC
+PY 2016
+VL 2
+IS 1
+AR UNSP 31
+DI 10.1186/s40854-016-0045-6
+PG 8
+WC Business, Finance; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA FJ8XI
+UT WOS:000413051500031
+OA DOAJ Gold, Green Published
+DA 2020-04-21
+ER
+
+PT J
+AU Lischke, M
+   Fabian, B
+AF Lischke, Matthias
+   Fabian, Benjamin
+TI Analyzing the Bitcoin Network: The First Four Years
+SO FUTURE INTERNET
+LA English
+DT Article
+DE bitcoin; blockchain; cryptocurrencies; electronic payment; network
+   analysis; complex networks; graph analysis
+ID CENTRALITY; POWER
+AB In this explorative study, we examine the economy and transaction network of the decentralized digital currency Bitcoin during the first four years of its existence. The objective is to develop insights into the evolution of the Bitcoin economy during this period. For this, we establish and analyze a novel integrated dataset that enriches data from the Bitcoin blockchain with off-network data such as business categories and geo-locations. Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time. We also show that there is a gambling network that features many very small transactions. Furthermore, regional differences in the adoption and business distribution could be found. In the network analysis, the small world phenomenon is investigated and confirmed for several subgraphs of the Bitcoin network.
+C1 [Lischke, Matthias; Fabian, Benjamin] Humboldt Univ, Inst Informat Syst, Spandauer Str 1, D-10178 Berlin, Germany.
+RP Fabian, B (reprint author), Humboldt Univ, Inst Informat Syst, Spandauer Str 1, D-10178 Berlin, Germany.
+EM matthias.lischke@googlemail.com; bfabian@wiwi.hu-berlin.de
+RI Fabian, Benjamin/O-6981-2017
+OI Fabian, Benjamin/0000-0002-9585-1814
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alstott J., 2014, POWERLAW PYTHON PACK
+   Androulaki E., 2013, LNCS, P34, DOI [DOI 10.1007/978-3-642-39884-1_, DOI 10.1007/978-3-642-39884-1]
+   Barabasi A.-L., 2000, PHYSICA A, V281, P2069
+   Baumann A., 2014, P 10 INT C WEB INF S
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Brugere I, BITCOIN TOOLS
+   Brugere I., BITCOIN TRANSACTION
+   Drainville D., 2012, ANAL BITCOIN ELECT C
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GROSS JL, 2004, HDB GRAPH THEORY
+   Inaoka H., 2004, FRACTAL NETWORK DERI
+   Kaminsky D., 2011, COMMUNICATION
+   Mao GY, 2013, J APPL MATH, DOI 10.1155/2013/865643
+   Meiklejohn S., 2013, P 2013 C INT MEAS C, P127, DOI [DOI 10.1145/2504730.2504747, 10.1145/2504730.2504747]
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nykamp D.Q., 2013, DEGREE DISTRIBUTION
+   Ober M, 2013, FUTURE INTERNET, V5, P237, DOI 10.3390/fi5020237
+   Ortega Marc Santamaria, 2013, THESIS
+   Reid Fergal, 2012, SECURITY PRIVACY SOC, P197
+   Saramaki J, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.027105
+   Spagnuolo M., 2013, THESIS
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yan E., 2010, APPL CENTRALITY MEAS
+NR 28
+TC 36
+Z9 38
+U1 4
+U2 58
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1999-5903
+J9 FUTURE INTERNET
+JI Future Internet
+PD MAR
+PY 2016
+VL 8
+IS 1
+AR 7
+DI 10.3390/fi8010007
+PG 40
+WC Computer Science, Information Systems
+SC Computer Science
+GA EY6ZX
+UT WOS:000404136100006
+OA DOAJ Gold
+DA 2020-04-21
+ER
+
+PT J
+AU Collins, R
+AF Collins, Rod
+TI Blockchain: A New Architecture for Digital Content
+SO ECONTENT
+LA English
+DT Article
+C1 [Collins, Rod] Optim Advisors, Innovat, Washington, DC 20006 USA.
+RP Collins, R (reprint author), Optim Advisors, Innovat, Washington, DC 20006 USA.
+NR 0
+TC 6
+Z9 6
+U1 3
+U2 172
+PU ONLINE INC
+PI WILTON
+PA 213 DANBURY RD, WILTON, CT 06897-4007 USA
+SN 1525-2531
+J9 ECONTENT
+JI Econtent
+PD NOV-DEC
+PY 2016
+VL 39
+IS 8
+BP 22
+EP 23
+PG 2
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA EA2LM
+UT WOS:000386423800012
+DA 2020-04-21
+ER
+
+PT J
+AU Ma, SY
+   Hu, Y
+   Wang, R
+AF Ma, Shiying
+   Hu, Yi
+   Wang, Rong
+TI Amphiphilic Block Copolymer Aided Design of Hybrid Assemblies of
+   Nanoparticles: Nanowire, Nanoring, and Nanocluster
+SO MACROMOLECULES
+LA English
+DT Article
+ID DISSIPATIVE PARTICLE DYNAMICS; GRAFTED NANOPARTICLES; SELECTIVE
+   SOLVENTS; SHAPE AMPHIPHILES; POLYMER MELTS; QUANTUM DOTS; CHAIN LENGTH;
+   VESICLES; SIMULATION; MICELLES
+AB We investigate the self-assembly and aggregation behaviors of nanoparticles in hybrid assemblies made from amphiphilic block copolymer tethered nanoparticles using the dissipative particle dynamics (DPD)) approach. By varying the arm number of the tethered amphiphilic block copolymers, hydrophobic block chain length, and interaction parameter between nanoparticle and hydrophobic block, different morphelogical hybrid aggregates are obtained, including branching rod-like micelles, ring-like disk-like micelles, and vesicles. Most importantly, the nanoparticles aggregate in the various micelles and form nanowires, nanorings, and nanoclusters. Only using amphiphilic block copolymer tethered nanoparticles, hybrid vesicles induding patchy vesicles-and heterogeneous vesicles are obtained. Moreover, nanodusters with distinct-number of nanoparticles in hybrid disk-like micelles and vesicles are fabricated through controlling the interaction parameter between nanoparticle and hydrophobic block.
+C1 [Ma, Shiying; Hu, Yi; Wang, Rong] Nanjing Univ, Key Lab High Performance Polymer Mat & Technol, Minist Educ, Dept Polymer Sci & Engn,State Key Lab Coordinat C, Nanjing 210093, Jiangsu, Peoples R China.
+   [Ma, Shiying; Hu, Yi; Wang, Rong] Nanjing Univ, Collaborat Innovat Ctr Chem Life Sci, Sch Chem & Chem Engn, Nanjing Natl Lab Microstruct, Nanjing 210093, Jiangsu, Peoples R China.
+   [Ma, Shiying] Taishan Univ, Coll Chem & Chem Engn, Tai An 271021, Shandong, Peoples R China.
+RP Wang, R (reprint author), Nanjing Univ, Key Lab High Performance Polymer Mat & Technol, Minist Educ, Dept Polymer Sci & Engn,State Key Lab Coordinat C, Nanjing 210093, Jiangsu, Peoples R China.; Wang, R (reprint author), Nanjing Univ, Collaborat Innovat Ctr Chem Life Sci, Sch Chem & Chem Engn, Nanjing Natl Lab Microstruct, Nanjing 210093, Jiangsu, Peoples R China.
+EM wangrong@nju.edu.cn
+OI Hu, Yi/0000-0002-0318-9561
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [21474051, 21074053, 51133002]; Program for
+   Changjiang Scholars and Innovative Research Team in University
+   (PCSIRT)Program for Changjiang Scholars & Innovative Research Team in
+   University (PCSIRT)
+FX This work was financially supported by the National Natural Science
+   Foundation of China (Grants 21474051, 21074053, and 51133002) and
+   Program for Changjiang Scholars and Innovative Research Team in
+   University (PCSIRT). The numerical calculations in this paper have been
+   done on the IBM Blade cluster system in the High Performance Computing
+   Center (HPCC) of Nanjing University.
+CR Berret JF, 2006, J AM CHEM SOC, V128, P1755, DOI 10.1021/ja0562999
+   Chang HY, 2012, MACROMOLECULES, V45, P4778, DOI 10.1021/ma3007366
+   Chen JY, 2010, ADV FUNCT MATER, V20, P3684, DOI 10.1002/adfm.201001329
+   Cheng L, 2014, CHEM REV, V114, P10869, DOI 10.1021/cr400532z
+   Cui HG, 2007, SCIENCE, V317, P647, DOI 10.1126/science.1141768
+   Dubertret B, 2002, SCIENCE, V298, P1759, DOI 10.1126/science.1077194
+   Estridge CE, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4870592
+   Gao XH, 2004, NAT BIOTECHNOL, V22, P969, DOI 10.1038/nbt994
+   Glotzer SC, 2005, CURR OPIN COLLOID IN, V10, P287, DOI 10.1016/j.cocis.2005.09.011
+   Groot RD, 1998, J CHEM PHYS, V108, P8713, DOI 10.1063/1.476300
+   Groot RD, 1997, J CHEM PHYS, V107, P4423, DOI 10.1063/1.474784
+   Hamer MJ, 2014, SOFT MATTER, V10, P1374, DOI 10.1039/c3sm52300d
+   He J, 2013, J AM CHEM SOC, V135, P7974, DOI 10.1021/ja402015s
+   He J, 2012, J AM CHEM SOC, V134, P11342, DOI 10.1021/ja3032295
+   Hickey RJ, 2014, ACS NANO, V8, P495, DOI 10.1021/nn405012h
+   Hickey RJ, 2011, J AM CHEM SOC, V133, P1517, DOI 10.1021/ja1090113
+   HOOGERBRUGGE PJ, 1992, EUROPHYS LETT, V19, P155, DOI 10.1209/0295-5075/19/3/001
+   Horsch MA, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.056105
+   Horsch MA, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2363983
+   Jayaraman A, 2009, MACROMOLECULES, V42, P8423, DOI 10.1021/ma901631x
+   Jayaraman A, 2008, MACROMOLECULES, V41, P9430, DOI 10.1021/ma801722m
+   Kim KT, 2009, ADV MATER, V21, P2787, DOI 10.1002/adma.200900300
+   Kroger M, 2000, PHYS REV LETT, V85, P1128, DOI 10.1103/PhysRevLett.85.1128
+   Lecommandoux SB, 2005, ADV MATER, V17, P712, DOI 10.1002/adma.200400599
+   Lin J, 2013, ACS NANO, V7, P5320, DOI 10.1021/nn4011686
+   Liu YJ, 2014, J AM CHEM SOC, V136, P2602, DOI 10.1021/ja412172f
+   Ma SY, 2015, MACROMOLECULES, V48, P3112, DOI 10.1021/ma5026219
+   Ma SY, 2014, SOFT MATTER, V10, P9090, DOI 10.1039/c4sm01446d
+   Mai YY, 2012, ACCOUNTS CHEM RES, V45, P1657, DOI 10.1021/ar2003144
+   Marsh HS, 2014, MACROMOLECULES, V47, P2736, DOI 10.1021/ma5000267
+   Martin TB, 2013, MACROMOLECULES, V46, P9144, DOI 10.1021/ma401763y
+   Martin TB, 2011, SOFT MATTER, V7, P5952, DOI 10.1039/c1sm05179b
+   Maye MM, 2009, NAT MATER, V8, P388, DOI [10.1038/NMAT2421, 10.1038/nmat2421]
+   Nair N, 2010, MACROMOLECULES, V43, P8251, DOI 10.1021/ma101229r
+   Nasongkla N, 2006, NANO LETT, V6, P2427, DOI 10.1021/nl061412u
+   Nie ZH, 2007, NAT MATER, V6, P609, DOI 10.1038/nmat1954
+   Nie ZH, 2010, NAT NANOTECHNOL, V5, P15, DOI [10.1038/NNANO.2009.453, 10.1038/nnano.2009.453]
+   Phillips CL, 2012, J CHEM PHYS, V137, DOI 10.1063/1.4748817
+   Posel Z, 2013, SOFT MATTER, V9, P2936, DOI 10.1039/c2sm27360h
+   Sanson C, 2011, ACS NANO, V5, P1122, DOI 10.1021/nn102762f
+   Soukoulis CM, 2007, SCIENCE, V315, P47, DOI 10.1126/science.1136481
+   Swierczewska M, 2012, CHEM SOC REV, V41, P2641, DOI 10.1039/c1cs15238f
+   Wang H, 2013, ACCOUNTS CHEM RES, V46, P1636, DOI 10.1021/ar400020j
+   Wang JY, 2014, POLYMER, V55, P1079, DOI 10.1016/j.polymer.2014.01.027
+   Xiao MY, 2013, SOFT MATTER, V9, P2434, DOI 10.1039/c2sm26882e
+   Zhang X, 2007, NANOTECHNOLOGY, V18, DOI 10.1088/0957-4484/18/11/115706
+   Zhang ZL, 2003, NANO LETT, V3, P1341, DOI 10.1021/nl034454g
+NR 47
+TC 15
+Z9 16
+U1 7
+U2 63
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0024-9297
+EI 1520-5835
+J9 MACROMOLECULES
+JI Macromolecules
+PD MAY 10
+PY 2016
+VL 49
+IS 9
+BP 3535
+EP 3541
+DI 10.1021/acs.macromol.5b02778
+PG 7
+WC Polymer Science
+SC Polymer Science
+GA DL7GT
+UT WOS:000375809700035
+DA 2020-04-21
+ER
+
+PT J
+AU Ouaddah, A
+   Abou Elkalam, A
+   Ouahman, AA
+AF Ouaddah, Aafaf
+   Abou Elkalam, Anas
+   Ouahman, Abdellah Ait
+TI FairAccess: a new Blockchain-based access control framework for the
+   Internet of Things
+SO SECURITY AND COMMUNICATION NETWORKS
+LA English
+DT Article
+DE Internet of Things; security; privacy; access control; bitcoin;
+   blockchain
+AB Security and privacy are huge challenges in Internet of Things (IoT) environments, but unfortunately, the harmonization of the IoT-related standards and protocols is hardly and slowly widespread. In this paper, we propose a new framework for access control in IoT based on the blockchain technology. Our first contribution consists in providing a reference model for our proposed framework within the Objectives, Models, Architecture and Mechanism specification in IoT. In addition, we introduce FairAccess as a fully decentralized pseudonymous and privacy preserving authorization management framework that enables users to own and control their data. To implement our model, we use and adapt the blockchain into a decentralized access control manager. Unlike financial bitcoin transactions, FairAccess introduces new types of transactions that are used to grant, get, delegate, and revoke access. As a proof of concept, we establish an initial implementation with a Raspberry PI device and local blockchain. Finally, we discuss some limitations and propose further opportunities. (C) 2017 John Wiley & Sons, Ltd.
+C1 [Ouaddah, Aafaf; Abou Elkalam, Anas; Ouahman, Abdellah Ait] Cadi Ayyad Univ, ENSA Marrakesh, Oscars Lab, BP 575, Marrakech 40000, Morocco.
+RP Ouaddah, A (reprint author), Cadi Ayyad Univ, ENSA Marrakesh, Oscars Lab, BP 575, Marrakech 40000, Morocco.
+EM aafafouaddah@gmail.com
+RI OUADDAH, Aafaf/Y-5088-2019
+OI OUADDAH, Aafaf/0000-0001-6229-5957
+CR Cirani S, 2015, IEEE SENS J, V15, P1224, DOI 10.1109/JSEN.2014.2361406
+   Di Vimercati SDC, 2007, ADV INFORM SECURITY, P21
+   Federal Information and Processing Standards, 2012, FIPS PUB 180 4 SEC H
+   Gerdes S, ARCHITECTUR IN PRESS
+   Hardt D., 2012, RFC6749 IETF
+   Hernandez-Ramos JL, 2016, INT J COMPUT MATH, V93, P345, DOI 10.1080/00207160.2014.915316
+   ISO, 1999, 15408 ISO IS
+   Jincy VJ, 2015, ADV INTELL SYST, V321, P265, DOI 10.1007/978-3-319-11227-5_23
+   Marquardt N, 2012, IEEE PERVAS COMPUT, V11, P14, DOI 10.1109/MPRV.2012.15
+   Miege A., 2005, THESIS
+   Mousannif H, 2014, LECT NOTES COMPUT SC, V8407, P1, DOI 10.1007/978-3-642-55032-4_1
+   Ouaddah A, P 12 ACS IEEE INT C
+   Ouaddah A, 2017, 2 INT C INT THINGS D
+   Ouaddah A, 2017, COMPUT NETW, V112, P237, DOI 10.1016/j.comnet.2016.11.007
+   Ouaddah A, 2017, ADV INTELL SYST, V520, P523, DOI 10.1007/978-3-319-46568-5_53
+   Ouaddah A, 2015, PROCEEDINGS OF 2015 INTERNATIONAL CONFERENCE ON ELECTRICAL AND INFORMATION TECHNOLOGIES (ICEIT 2015), P30, DOI 10.1109/EITech.2015.7162936
+   Panikkar Sanjay, 2015, ADEPT IOT PRACTITION
+   Park J., 2002, P 7 ACM S ACC CONTR, P57, DOI DOI 10.1145/507711.507722
+   Park J. H., 2003, THESIS
+   PFITZMANN A, 2001, LNCS, V2009, P1, DOI DOI 10.1007/3-540-44702-4_1
+   Sandhu R., 2000, P 5 ACM WORKSH ROL B, P111
+   Seitz L., 2013, P IEEE 14 INT S WORK, P1, DOI DOI 10.1109/WOWMOM.2013.6583465
+   SHAMIR A, 1979, COMMUN ACM, V22, P612, DOI 10.1145/359168.359176
+   SHELBY Z, 2014, [No title captured], V7252, P10
+   Sujansky WV, J BIOMEDICAL INFORM, pS46
+   Tschofenig H., 2014, OAUTH 2 0 I IN PRESS
+   Tschofenig H, 2015, OAUTH 2 0 B IN PRESS
+   Tschofenig H., 2015, AUTHENTICAT IN PRESS
+   Wahlstroem E., 2015, OAUTH 2 0 I IN PRESS
+   Yan Z, 2008, COMPUTER SECURITY PR, P290, DOI DOI 10.4018/978-1-59904-804-8.CH013
+   Yao A. C., 1986, 27th Annual Symposium on Foundations of Computer Science (Cat. No.86CH2354-9), P162, DOI 10.1109/SFCS.1986.25
+   Ye N, 2014, APPL MATH INFORM SCI, V8, P1617, DOI 10.12785/amis/080416
+   Yuan E, 2005, 2005 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, VOLS 1 AND 2, PROCEEDINGS, P561
+   Zhang G., 2010, 2010 INT C INF NETW, V1, pV1, DOI DOI 10.1109/ICINA.2010.5636381
+   Zhang XT, 2006, THESIS
+   Zyskind G, 2015, 2015 IEEE SECURITY AND PRIVACY WORKSHOPS (SPW), P180, DOI 10.1109/SPW.2015.27
+NR 36
+TC 77
+Z9 80
+U1 20
+U2 177
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1939-0114
+EI 1939-0122
+J9 SECUR COMMUN NETW
+JI Secur. Commun. Netw.
+PD DEC
+PY 2016
+VL 9
+IS 18
+BP 5943
+EP 5964
+DI 10.1002/sec.1748
+PG 22
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA EQ6VL
+UT WOS:000398221800082
+DA 2020-04-21
+ER
+
+PT J
+AU Christidis, K
+   Devetsikiotis, M
+AF Christidis, Konstantinos
+   Devetsikiotis, Michael
+TI Blockchains and Smart Contracts for the Internet of Things
+SO IEEE ACCESS
+LA English
+DT Article
+DE Blockchain; distributed systems; internet of things
+AB Motivated by the recent explosion of interest around blockchains, we examine whether they make a good fit for the Internet of Things (IoT) sector. Blockchains allow us to have a distributed peer-to-peer network where non-trusting members can interact with each other without a trusted intermediary, in a verifiable manner. We review how this mechanism works and also look into smart contracts-scripts that reside on the blockchain that allow for the automation of multi-step processes. We then move into the IoT domain, and describe how a blockchain-IoT combination: 1) facilitates the sharing of services and resources leading to the creation of a marketplace of services between devices and 2) allows us to automate in a cryptographically verifiable manner several existing, time-consuming workflows. We also point out certain issues that should be considered before the deployment of a blockchain network in an IoT setting: from transactional privacy to the expected value of the digitized assets traded on the network. Wherever applicable, we identify solutions and workarounds. Our conclusion is that the blockchain-IoT combination is powerful and can cause significant transformations across several industries, paving the way for new business models and novel, distributed applications.
+C1 [Christidis, Konstantinos; Devetsikiotis, Michael] North Carolina State Univ, Dept Elect & Comp Engn, Raleigh, NC 27606 USA.
+RP Christidis, K (reprint author), North Carolina State Univ, Dept Elect & Comp Engn, Raleigh, NC 27606 USA.
+EM kchrist@ncsu.edu
+RI Sanchez-Gomez, Nicolas/K-3758-2014
+CR Ali M., 2016, BLOCKSTACK DESIGN IM
+   Angwin J., OWN VIZIO SMART TV I
+   [Anonymous], 2005, UNDERSTANDING PUBLIC
+   [Anonymous], 2002, ANNOUNCING SECURE HA
+   Antonopoulos A.M., 2014, MASTERING BITCOIN UN
+   Aumasson JP, 2010, SHA 3 PROPOSAL BLAKE
+   Benet J., 2015, IPFS CLUSTER TOOL CO
+   Benet J., IPFS CONTENT ADDRESS
+   Benet J., 2015, REPLICATIONS IPFS BA
+   Brody P., TECH REP
+   Brown R., 2015, SIMPLE MODEL SMART C
+   Brown R., 2015, HOW EXPLAIN VALUE RE
+   Buterin V., 2016, THOUGHTS ON UTXOS
+   Cachin C., 2016, NONDETERMINISM BYZAN
+   Cachin C, 2011, INTRODUCTION TO RELIABLE AND SECURE DISTRIBUTED PROGRAMMING, SECOND EDITION, P1, DOI 10.1007/978-3-642-15260-3
+   Castro M, 1999, USENIX ASSOCIATION PROCEEDINGS OF THE THIRD SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '99), P173
+   de Filippi P., 2015, LEGAL FRMAEWORK CRYP
+   Douceur JR, 2002, LECT NOTES COMPUT SC, V2429, P251, DOI 10.1007/3-540-45748-8_24
+   Eyal I., 2015, BITCOIN NG SCALABLE
+   Franco P., 2014, UNDERSTANDING BITCON
+   Granata J., 2016, 1 MICROPAYMENTS MARK
+   Greenspan G., 2015, DELIVERY VERSUS PAYM
+   Greenspan G, 2015, SMART CONTRACTS GOOD
+   Greenspan G., 2015, MULTICHAIN PRIVATE B
+   Greenspan G., 2015, ENDING BIT COINVSBLO
+   Greenspan G., 2015, PRIVATE BLOCKCHAINS
+   Greenspan Gideon, 2015, AVOIDING POINTLESS B
+   Kapritsos M., 2012, OSDI, P237
+   Kar I., 2016, ESTONIAN CITIZENS WI
+   Kelly J., 2016, 40 BIG BANKS TEST BL
+   Kosba A., 2015, 2015675 CRYPTOLOGY
+   Lacey S., 2016, ENERGY BLOCKCHAIN HO
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Maxwell G., CONFIDENTIAL T
+   Meiklejohn S., 2013, P 2013 C INT MEAS C, P127, DOI [DOI 10.1145/2504730.2504747, 10.1145/2504730.2504747]
+   Mizrahi Alex, 2015, BLOCKCHAIN BASED PRO
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   Ongaro D, 2014, USENIX ANN TECHN C M, V14, P305
+   Oparah D., 2016, 3 WAYS THAT BLOCKCHA
+   Percival C., TARSNAP SCRYPT KEY D
+   Robinson T., 2015, BITCOIN IS NOT ANONY
+   Ron D., 2013, LNCS, P6, DOI DOI 10.1007/978-3-642-39884-1
+   Rutkin A., 2016, BLOCKCHAIN BASED MIC
+   Schwartz D., 2014, TECH REP
+   Suberg W., 2015, FACTOMS LATEST PARTN
+   Swanson T., 2015, TECH REP
+   Szabo N., 1994, SMART CONTRACTS
+   Szabo N., 1997, IDEA SMART CONTRACTO
+   Thijssen J., 2013, TELEHASH ENCRYPTED P
+   Tschorsch F., IEEE COMMUN IN PRESS
+   Vukolic M., 2015, INT WORKSH OP PROBL, P112
+   Walport M., 2016, TECH REP
+   Yassami S., 2016, TRUE MICROPAYMENTS B
+NR 53
+TC 612
+Z9 640
+U1 185
+U2 1028
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2016
+VL 4
+BP 2292
+EP 2303
+DI 10.1109/ACCESS.2016.2566339
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA EV8KL
+UT WOS:000402029000001
+OA DOAJ Gold
+HC Y
+HP N
+DA 2020-04-21
+ER
+
+PT J
+AU Yue, X
+   Wang, HJ
+   Jin, DW
+   Li, MQ
+   Jiang, W
+AF Yue, Xiao
+   Wang, Huiju
+   Jin, Dawei
+   Li, Mingqiang
+   Jiang, Wei
+TI Healthcare Data Gateways: Found Healthcare Intelligence on Blockchain
+   with Novel Privacy Risk Control
+SO JOURNAL OF MEDICAL SYSTEMS
+LA English
+DT Article
+DE Healthcare data system; Indicator-centric schema; BlockChain; Healthcare
+   data sharing; Privacy risk
+ID TREES
+AB Healthcare data are a valuable source of healthcare intelligence. Sharing of healthcare data is one essential step to make healthcare system smarter and improve the quality of healthcare service. Healthcare data, one personal asset of patient, should be owned and controlled by patient, instead of being scattered in different healthcare systems, which prevents data sharing and puts patient privacy at risks. Blockchain is demonstrated in the financial field that trusted, auditable computing is possible using a decentralized network of peers accompanied by a public ledger. In this paper, we proposed an App (called Healthcare Data Gateway (HGD)) architecture based on blockchain to enable patient to own, control and share their own data easily and securely without violating privacy, which provides a new potential way to improve the intelligence of healthcare systems while keeping patient data private. Our proposed purpose-centric access model ensures patient own and control their healthcare data; simple unified Indicator-Centric Schema (ICS) makes it possible to organize all kinds of personal healthcare data practically and easily. We also point out that MPC (Secure Multi-Party Computing) is one promising solution to enable untrusted third-party to conduct computation over patient data without violating privacy.
+C1 [Yue, Xiao] Huaqiao Univ, Sch Polit Sci & Publ Adm, 269 Chenghua North Rd, Quanzhou 362021, Fujian, Peoples R China.
+   [Wang, Huiju; Jin, Dawei; Jiang, Wei] Zhongnan Univ Econ & Law, Sch Informat & Safety Engn, 182 Nanhu Ave, Wuhan 430073, Peoples R China.
+   [Li, Mingqiang] Zhongnan Univ Econ & Law, Sch Publ Adm, 182 Nanhu Ave, Wuhan 430073, Peoples R China.
+RP Wang, HJ (reprint author), Zhongnan Univ Econ & Law, Sch Informat & Safety Engn, 182 Nanhu Ave, Wuhan 430073, Peoples R China.
+EM wanghuiju.cn@hotmail.com
+FU Humanity and Social Science Youth Foundation of Ministry of Education of
+   China [14YJC630181]; Fundamental Research Funds for the Central
+   Universities of ChinaFundamental Research Funds for the Central
+   Universities [JB-SK1206]; Scientific Research Fund for Talent
+   Introduction of Zhongnan University of Economics and Law [21141611313];
+   Scientific Research Fund for Talent Introduction of Huaqiao University
+   [12Y0324]; National Social Science Foundation for Young Scholars
+   [13CTJ003]
+FX This work is partly supported by the Humanity and Social Science Youth
+   Foundation of Ministry of Education of China (Grant No.14YJC630181), the
+   Fundamental Research Funds for the Central Universities of China (Grant
+   No. JB-SK1206), the Scientific Research Fund for Talent Introduction of
+   Zhongnan University of Economics and Law (Grant No. 21141611313), the
+   Scientific Research Fund for Talent Introduction of Huaqiao University
+   (Grant No. 12Y0324) and National Social Science Foundation for Young
+   Scholars (Grant No.13CTJ003).
+CR Barua Mrinmoy, 2011, International Journal of Security and Networks, V6, P67, DOI 10.1504/IJSN.2011.043666
+   BENTLEY JL, 1975, COMMUN ACM, V18, P509, DOI 10.1145/361002.361007
+   Bereczky N, 2016, THEOR COMPUT SCI, V616, P126, DOI 10.1016/j.tcs.2015.12.030
+   Chaum D., 1988, Proceedings of the Twentieth Annual ACM Symposium on Theory of Computing, P11, DOI 10.1145/62212.62214
+   Chen M, 2015, MOBILE NETW APPL, V20, P704, DOI 10.1007/s11036-015-0590-7
+   Goldreich Oded, 1987, P 19 STOC, P218, DOI DOI 10.1145/28395.28420
+   Gul O, 2012, 2012 INTERNATIONAL CONFERENCE ON CLOUD COMPUTING TECHNOLOGIES, APPLICATIONS AND MANAGEMENT (ICCCTAM), P60, DOI 10.1109/ICCCTAM.2012.6488072
+   Guttman A., 1984, SIGMOD Record, V14, P47
+   Hendrick E, 2013, 2013 IEEE CONSUMER COMMUNICATIONS AND NETWORKING CONFERENCE (CCNC), P887, DOI 10.1109/CCNC.2013.6488579
+   Jin PQ, 2015, EXPERT SYST APPL, V42, P4676, DOI 10.1016/j.eswa.2015.01.011
+   Jothi N, 2015, PROCEDIA COMPUT SCI, V72, P306, DOI 10.1016/j.procs.2015.12.145
+   Kemkarl O. S., 2012, INT J COMPUTER SCI C, V2, P453
+   Lingfeng Chen, 2011, Proceedings of the 2011 IEEE 13th International Conference on High Performance Computing and Communication (HPCC 2011). 2011 IEEE International Workshop on Future Trends of Distributed Computing Systems (FTDCS 2011). Workshops of the 2011 International Conference on Ubiquitous Intelligence and Computing (UIC 2011). Workshops of the 2011 International Conference on Autonomic and Trusted Computing (ATC 2011), P550, DOI 10.1109/HPCC.2011.148
+   Narayan S, 2010, PROCEEDINGS OF THE 2010 ACM WORKSHOP CLOUD COMPUTING SECURITY WORKSHOP (CCSW'10:), P47, DOI 10.1145/1866835.1866845
+   ONA General Counsel, 2016, MEMB PAT PRIV BE AW
+   Patra M. R., 2012, P 6 INT C THEOR PRAC, P402, DOI DOI 10.1145/2463728.2463805
+   Rolim CO, 2010, SECOND INTERNATIONAL CONFERENCE ON EHEALTH, TELEMEDICINE, AND SOCIAL MEDICINE: ETELEMED 2010, PROCEEDINGS, P95, DOI 10.1109/eTELEMED.2010.19
+   The Office of the National Coordinator for Health Information Technology (ONC) USA, 2015, VAL CONS ACC US ONL
+   Zhang Y., 2016, IEEE T CIRCUITS SYST, P1, DOI DOI 10.1109/TEVC.2016.2604362
+   Zhang YJ, 2015, IEEE T VLSI SYST, V23, P1170, DOI 10.1109/TVLSI.2014.2326797
+   Zhang Y, 2017, FUTURE GENER COMP SY, V66, P30, DOI 10.1016/j.future.2015.12.001
+   Zyskind Guy, 2015, ABS150603471 CORR
+NR 22
+TC 191
+Z9 197
+U1 76
+U2 479
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0148-5598
+EI 1573-689X
+J9 J MED SYST
+JI J. Med. Syst.
+PD OCT
+PY 2016
+VL 40
+IS 10
+AR 218
+DI 10.1007/s10916-016-0574-6
+PG 8
+WC Health Care Sciences & Services; Medical Informatics
+SC Health Care Sciences & Services; Medical Informatics
+GA DW3XJ
+UT WOS:000383576100008
+PM 27565509
+HC Y
+HP N
+DA 2020-04-21
+ER
+
+PT J
+AU Pichel, F
+AF Pichel, Frank
+TI Blockchain for Land Administration
+SO GIM INTERNATIONAL-THE WORLDWIDE MAGAZINE FOR GEOMATICS
+LA English
+DT Article
+AB Over the past year, the international property rights sector has been abuzz with the potential for blockchain technology to fundamentally transform the approach to land administration. Even Peruvian economist and expert on property rights Hernando de Soto himself became part of this discussion in June 2015 while on Richard Branson's private island, brainstorming as to how blockchain might be applicable to the land sector. However, the initial frenzy has waned as the implementation of blockchain has demonstrated that the technology is not simply a wholesale 'fix' of the land sector, but rather should be applied realistically and piloted at a reasonable scale.
+C1 [Pichel, Frank] Cadasta Fdn, Washington, DC 20005 USA.
+RP Pichel, F (reprint author), Cadasta Fdn, Washington, DC 20005 USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 12
+PU REED BUSINESS-GEO
+PI LEMMER
+PA PO BOX 112, LEMMER, 8530 AC, NETHERLANDS
+SN 1566-9076
+J9 GIM INT
+JI GIM Int.
+PD SEP
+PY 2016
+VL 30
+IS 9
+BP 38
+EP 39
+PG 2
+WC Remote Sensing
+SC Remote Sensing
+GA FO0XT
+UT WOS:000416480000019
+DA 2020-04-21
+ER
+
+PT J
+AU Kim, KJ
+   Hong, SP
+AF Kim, Kyong Jin
+   Hong, Seng Phil
+TI Study on Rule-based Data Protection System Using Blockchain in P2P
+   Distributed Networks
+SO INTERNATIONAL JOURNAL OF SECURITY AND ITS APPLICATIONS
+LA English
+DT Article
+DE Blockchain; Data Protection System; P2P Distributed Networks
+AB The blockchain is new revolutionary paradigm for the world, but the privacy and confidentiality are still issues. This study is focused on the technical securities to provide a blockchain service on a foundation of trust. We suggested the rule-based data protection system that is to provide authorize rules used in mechanism, to control an access users without intermediaries on the blockchain. We have developed a scenario of an application a smart contract based on the suggested system and simulated it.
+C1 [Kim, Kyong Jin] Sungshin Womens Univ, Grad Sch, Dept Comp Sci, Seoul, South Korea.
+   [Hong, Seng Phil] Sungshin Womens Univ, Sch Informat Technol, Seoul, South Korea.
+RP Hong, SP (reprint author), Sungshin Womens Univ, Sch Informat Technol, Seoul, South Korea.
+EM kyongjin@sungshin.ac.kr; philhong@sungshin.ac.kr
+RI Sanchez-Gomez, Nicolas/K-3758-2014
+FU Sungshin University
+FX This work was supported by the Sungshin University Research Grant of
+   2016.
+CR Crosman P., 2016, DOES BLOCKCHAIN TECH
+   Cruz J. P., 2015, P INT AC RES IND ASS, P29
+   Decker C., 2015, P 17 INT C DISTR COM
+   Dotson K., 2016, ETHEREUM DAO ATTACKE
+   Gervais A., 2016, P 2016 ACM SIGSAC C, V16, P3, DOI DOI 10.1145/2976749.2978341
+   Gibbs S., 2016, BITCOIN WORTH 78M ST
+   Hardjono T., 2016, P 2 ACM INT WORKSH I, P29, DOI DOI 10.1145/2899007.2899012
+   Karame GO, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P1861, DOI 10.1145/2976749.2976756
+   Luu L, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P254, DOI 10.1145/2976749.2978309
+   Mazieres D., 2016, STELLAR CONSENSUS PR
+   Nakamoto S., 2008, BITCOIN PEER TO PEER
+   SANDHU R, 1996, IEEE COMPUT, V29, P38, DOI DOI 10.1109/2.485845
+   Underwood S, 2016, COMMUN ACM, V59, P15, DOI 10.1145/2994581
+   Young J., 2016, ETHEREUM IS DDOS ATT
+   Young J., 2016, ETHEREUM CLASSIC ATT
+NR 15
+TC 2
+Z9 3
+U1 0
+U2 30
+PU SCIENCE & ENGINEERING RESEARCH SUPPORT SOC
+PI DAEJON
+PA RM 402, MAN-JE BLDG, 449-8 OJUNG-DONG, DAEDOEK-GU, DAEJON, 00000, SOUTH
+   KOREA
+SN 1738-9976
+J9 INT J SECUR APPL
+JI Int. J. Secur. Appl.
+PD NOV
+PY 2016
+VL 10
+IS 11
+BP 201
+EP 210
+DI 10.14257/ijsia.2016.10.11.18
+PG 10
+WC Computer Science, Information Systems
+SC Computer Science
+GA EQ3AI
+UT WOS:000397942900019
+OA Bronze
+DA 2020-04-21
+ER
+
+PT J
+AU Van Bochove, D
+   De Bruin, L
+   Lemmen, C
+AF Van Bochove, Derek
+   De Bruin, Louis
+   Lemmen, Christiaan
+TI From Bitcoins to Bitsquares
+SO GIM INTERNATIONAL-THE WORLDWIDE MAGAZINE FOR GEOMATICS
+LA English
+DT Article
+AB An article in The Economist in October 2015 stated that land registries across much of the world are "badly kept, mismanaged and/or corrupt". This causes insecurity and injustice. It also means that it can be difficult for citizens to use their property as collateral for a mortgage, which hampers economic development. Building good and reliable land administration systems, however, can be a complicated and expensive activity. Now, a secure mechanism called blockchain, originally developed to handle and store transactions in the bitcoin digital currency, offers a chance for land administration by providing trust by definition.
+C1 [Van Bochove, Derek] Univ Utrecht, Human Geog, Utrecht, Netherlands.
+   [De Bruin, Louis] IBM Corp, Brussels, Belgium.
+   [De Bruin, Louis] IBM Corp, Amsterdam, Netherlands.
+   [De Bruin, Louis] IBM Corp, Mamer, Luxembourg.
+   [Lemmen, Christiaan] Kadaster Int, Apeldoorn, Netherlands.
+   [Lemmen, Christiaan] Univ Twente, ITC, Enschede, Netherlands.
+   [Lemmen, Christiaan] Int Off Cadastre & Land Records OICRF, Apeldoorn, Netherlands.
+RP Van Bochove, D (reprint author), Univ Utrecht, Human Geog, Utrecht, Netherlands.
+EM d.bochove@gmail.com; louis_de_bruin@nl.ibm.com; chrit.lemmen@kadaster.nl
+RI Lemmen, Christiaan/L-4660-2013
+OI Lemmen, Christiaan/0000-0003-1514-8385
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 9
+PU REED BUSINESS-GEO
+PI LEMMER
+PA PO BOX 112, LEMMER, 8530 AC, NETHERLANDS
+SN 1566-9076
+J9 GIM INT
+JI GIM Int.
+PD SEP
+PY 2016
+VL 30
+IS 9
+BP 36
+EP 37
+PG 2
+WC Remote Sensing
+SC Remote Sensing
+GA FO0XT
+UT WOS:000416480000018
+DA 2020-04-21
+ER
+
+PT J
+AU Dennis, R
+   Owenson, G
+AF Dennis, Richard
+   Owenson, Gareth
+TI Rep on the Roll: A Peer to Peer Reputation System Based on a Rolling
+   Blockchain
+SO INTERNATIONAL JOURNAL FOR DIGITAL SOCIETY
+LA English
+DT Article
+AB This paper presents the first generalized reputation system that can be applied to multiple networks that is based on the blockchain. We first discuss current reputation systems, conducting a critical analysis of their current security vulnerabilities, before looking at how new blockchain-based technologies are used. We propose an innovative new reputation system that is based on blockchain technologies and which aims to solve many unanswered questions in the current generation of reputation systems, as well as blockchain systems in general. We then consider the limitations of such a system, before using simulations and analyses to demonstrate methods of overcoming these limitations, and in doing so, provide a possible solution to a fundamental issue in blockchain-based networks; scalability. We conclude by suggesting areas for future studies, and summarizing our findings.
+C1 [Dennis, Richard; Owenson, Gareth] Univ Portsmouth, Sch Comp, Portsmouth, Hants, England.
+RP Dennis, R (reprint author), Univ Portsmouth, Sch Comp, Portsmouth, Hants, England.
+CR ABERER K, 2001, MANAGING TRUST PEER
+   Blockchain, 2015, HASH RATE
+   Chewelos P., 2009, DIFFERENCES TRUTHINE
+   Cohen R., 2013, GLOBAL BITCOIN COMPU
+   Danezis George, 2009, P 16 ANN NETW DISTR
+   Dewan P., 2004, P PAR DISTR COMP SYS
+   DOUCEUR JR, 2002, IPTPS 01, P251
+   Ebay, 2015, CHANG FEEDB FAQ
+   Eyal I., 2015, BITCOIN NG SCALABLE
+   Greenwald G., 2014, COVERT AGENTS INFILT
+   Gupta M., REPUTATION SYSTEM PE
+   Hashing It, 2014, 7 T PER 2 REALLY
+   Hoffman Kevin, 2007, SURVEY ATTACKS REPUT
+   Josang A., SIMULATING EFFECT RE
+   Josang A., 2009, P 5 INT WORKSH SEC T
+   Kamvar Sepandar D., 2003, P WWW, P640, DOI DOI 10.1145/775152.775242
+   Mohaisen A., 2013, SMART COMPUTING REV, V3, P480
+   Nakamoto S., BITCOIN PEER TO PEER
+   Poon J., 2016, BITCOIN LIGHTNING NE
+   Pretre B., 2005, THESIS
+   Prisco G., 2015, WORLD TABLE LAUNCHES
+   Schiffner S., 2007, PRIVACY LIVELINESS F
+   Wang Y, 2003, THIRD INTERNATIONAL CONFERENCE ON PEER-TO-PEER COMPUTING (P2P2003), PROCEEDINGS, P150, DOI 10.1109/PTP.2003.1231515
+   WSO2, 2011, EBAY US 100 OP SOURC
+   Yu H., 2008, 2008 IEEE S SEC PRIV, DOI [10.1109/SP.2008.13, DOI 10.1109/SP.2008.13]
+   Zhou RF, 2007, IEEE T PARALL DISTR, V18, P460, DOI [10.1109/TPDS.2007.1021, 10.1109/TPDS.2007.1015]
+NR 26
+TC 9
+Z9 10
+U1 0
+U2 51
+PU INFONOMICS SOC
+PI BASILDON
+PA INFONOMICS SOC, BASILDON, 00000, ENGLAND
+SN 2040-2570
+J9 INT J DIGIT SOC
+JI Int. J. Digit. Soc.
+PD MAR
+PY 2016
+VL 7
+IS 1
+BP 1123
+EP 1134
+PG 12
+WC Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA DV1CD
+UT WOS:000382656600002
+DA 2020-04-21
+ER
+
+PT J
+AU Gobel, J
+   Keeler, HP
+   Krzesinski, AE
+   Taylor, PG
+AF Goebel, J.
+   Keeler, H. P.
+   Krzesinski, A. E.
+   Taylor, P. G.
+TI Bitcoin blockchain dynamics: The selfish-mine strategy in the presence
+   of propagation delay
+SO PERFORMANCE EVALUATION
+LA English
+DT Article
+DE Bitcoin; Blockchain; Block hiding strategies; Honest mining;
+   Selfish-mine
+AB In the context of the 'selfish-mine' strategy proposed by Eyal and Sirer, we study the effect of communication delay on the evolution of the Bitcoin blockchain. First, we use a simplified Markov model that tracks the contrasting states of belief about the blockchain of a small pool of dishonest miners and the 'rest of the community' to establish that the use of block-hiding strategies, such as selfish-mine, causes the rate of production of orphan blocks to increase. Then we use a spatial Poisson process model to study values of Eyal and Sirer's parameter gamma, which denotes the proportion of the honest community that mines on a previously-secret block released by the pool in response to the mining of a block by the honest community. Finally, we use discrete-event simulation to study the behaviour of a network of Bitcoin miners, a proportion of which is colluding in using the selfish-mine strategy, under the assumption that there is a delay in the communication of information between miners. The models indicate that both the dishonest and the honest miners were worse off than they would have been if no dishonest mining were present, and that it is possible for the mining community to detect block-hiding behaviour, such as that used in selfish-mine, by monitoring the rate of production of orphan blocks. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Goebel, J.] Univ Hamburg, Dept Informat, D-22527 Hamburg, Germany.
+   [Krzesinski, A. E.] Univ Stellenbosch, Dept Math Sci, ZA-7600 Stellenbosch, South Africa.
+   [Keeler, H. P.; Taylor, P. G.] Univ Melbourne, Sch Math & Stat, Melbourne, Vic 3010, Australia.
+RP Krzesinski, AE (reprint author), Univ Stellenbosch, Dept Math Sci, ZA-7600 Stellenbosch, South Africa.
+EM goebel@informatik.uni-hamburg.de; keeler@unimelb.edu.au;
+   aek1@cs.sun.ac.za; taylorpg@unimelb.edu.au
+OI Taylor, Peter/0000-0001-7600-5383; Keeler, Paul/0000-0002-2063-1075
+FU Research Foundation of South Africa [83965]; Telkom SA Limited;
+   Australian Research CouncilAustralian Research Council [FL130100039];
+   ARC Centre of Excellence for Mathematical and Statistical Frontiers
+   (ACEMS)Australian Research Council [CE140100049]
+FX The work of Anthony Krzesinski is supported by the Research Foundation
+   of South Africa (Grant specific unique reference number (UID) 83965) and
+   Telkom SA Limited.; The work of Peter Taylor is supported by the
+   Australian Research Council Laureate Fellowship FL130100039 and the ARC
+   Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS)
+   CE140100049.
+CR Baccelli F., SPATIAL INTERACTIONS
+   Baccelli F., 2009, STOCHASTIC GEOMETRY, VI
+   Baccelli F, 2013, IEEE INFOCOM SER, P1753
+   Bahack L., 2013, THEORETICAL BITCOIN
+   Boguna M, 2010, NAT COMMUN, V1, DOI 10.1038/ncomms1063
+   Courtois N., SUBVERSIVE MINER STR
+   Decker C., 2013, PEER TO PEER COMP P2, P1, DOI DOI 10.1109/P2P.2013.6688704
+   Deutsch E, 1999, DISCRETE MATH, V204, P167, DOI 10.1016/S0012-365X(98)00371-9
+   Eyal I, 2013, COMPUTER SCI, V8437, P436
+   Kingman JFC, 1993, POISSON PROCESSES
+   Nakamoto S., BITCOIN PEER TO PEER
+   Page B, 2005, JAVA SIMULATION HDB
+   Rosenfeld M., 2014, ANAL HASHRATE BASED
+   Welsh T., COMMUNICATION
+NR 14
+TC 33
+Z9 37
+U1 11
+U2 132
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-5316
+EI 1872-745X
+J9 PERFORM EVALUATION
+JI Perform. Eval.
+PD OCT
+PY 2016
+VL 104
+BP 23
+EP 41
+DI 10.1016/j.peva.2016.07.001
+PG 19
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA EA9RQ
+UT WOS:000386982800002
+DA 2020-04-21
+ER
+
+PT J
+AU Yoshida, E
+AF Yoshida, Eri
+TI Worm-like vesicle formation by photo-controlled/living radical
+   polymerization-induced self-assembly of amphiphilic poly(methacrylic
+   acid)-block-poly(methyl methacrylate-random-methacrylic acid)
+SO COLLOID AND POLYMER SCIENCE
+LA English
+DT Article
+DE Worm-like vesicles; Formation mechanisms; Morphological change; Cup-like
+   vesicles; Spherical
+ID RANDOM BLOCK-COPOLYMERS; GIANT VESICLES; MORPHOLOGY CONTROL
+AB The formation mechanisms of worm-like vesicles were determined by the photopolymerization-induced self-assembly of an amphiphilic poly(methacrylic acid)-block-poly(methyl methacrylate-random-methacrylic acid) diblock copolymer, PMAA-b-P(MMA-r-MAA). The photopolymerization-induced self-assembly was performed by the nitroxde-mediated photo-controlled/living radical polymerization in an aqueous methanol solution using a PMAA end-capped with 4-methoxy-2,2,6,6-tetramethylpiperidine-1-oxyl. The polymerization retained its living nature during the self-assembly. The copolymer during the early stage of the polymerization produced cup-like vesicles that had some holes in the surface and were comprised of a thin and flexible bilayer. As the hydrophobic P(MMA-r-MAA) block chain was extended by the polymerization progress, the cup-like vesicles were transformed into spherical vesicles, accompanied by decreases in the number of holes and their size. Further extension of the hydrophobic block chain enhanced the intervesicular aggregation to provide worm-like vesicles. These morphological changes were accounted for by variation in the critical packing shape of the copolymer by expansion of the hydrophobic chain volume.
+C1 [Yoshida, Eri] Toyohashi Univ Technol, Dept Environm & Life Sci, Tempaku Cho,1-1 Hibarigaoka, Toyohashi, Aichi 4418580, Japan.
+RP Yoshida, E (reprint author), Toyohashi Univ Technol, Dept Environm & Life Sci, Tempaku Cho,1-1 Hibarigaoka, Toyohashi, Aichi 4418580, Japan.
+EM eyoshida@ens.tut.ac.jp
+RI Yoshida, Eri/R-2510-2018
+OI Yoshida, Eri/0000-0001-7001-2515
+FU JSPSMinistry of Education, Culture, Sports, Science and Technology,
+   Japan (MEXT)Japan Society for the Promotion of Science [25390003]
+FX The author is thankful for a JSPS Grant-in-Aid for Scientific Research
+   (Grant Number 25390003).
+CR Austin JR, 2011, PLANT PHYSIOL, V155, P1601, DOI 10.1104/pp.110.170647
+   Frey TG, 2000, TRENDS BIOCHEM SCI, V25, P319, DOI 10.1016/S0968-0004(00)01609-1
+   Israelachvili JN, 2011, INTERMOLECULAR AND SURFACE FORCES, 3RD EDITION, P1
+   Kessel RG, 1979, TISSUES ORGANS TEXT, P199
+   KOBAYASHI S, 1990, POLYM J, V22, P759, DOI 10.1295/polymj.22.759
+   LEE C, 1988, CELL, V54, P37, DOI 10.1016/0092-8674(88)90177-8
+   Li HH, 2015, SCI REP-UK, V5, DOI 10.1038/srep11033
+   MCNULTY CAM, 1989, J CLIN PATHOL, V42, P585, DOI 10.1136/jcp.42.6.585
+   MIYAZAWA T, 1985, J ORG CHEM, V50, P1332, DOI 10.1021/jo00208a047
+   Yoshida E, 2012, POLYM SCI, DOI 10.5402/2012/102186
+   Yoshida E, 2013, OPEN J POLYM CHEM, V3, P16
+   Yoshida E., 2014, OPEN J POLYM CHEM, V4, P47
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P3641, DOI 10.1007/s00396-015-3763-9
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P2437, DOI 10.1007/s00396-015-3679-4
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P1835, DOI 10.1007/s00396-015-3577-9
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P1841, DOI 10.1007/s00396-015-3600-1
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P1275, DOI 10.1007/s00396-015-3519-6
+   Yoshida E, 2015, COLLOID POLYM SCI, V293, P249, DOI 10.1007/s00396-014-3403-9
+   Yoshida E, 2015, SUPRAMOL CHEM, V27, P274, DOI 10.1080/10610278.2014.959014
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P2555, DOI 10.1007/s00396-014-3297-6
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P1463, DOI 10.1007/s00396-014-3216-x
+   Yoshida E, 2014, COLLOID POLYM SCI, V292, P763, DOI 10.1007/s00396-013-3154-z
+   Yoshida E, 2013, COLLOID POLYM SCI, V291, P2733, DOI 10.1007/s00396-013-3056-0
+NR 23
+TC 5
+Z9 5
+U1 2
+U2 26
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0303-402X
+EI 1435-1536
+J9 COLLOID POLYM SCI
+JI Colloid Polym. Sci.
+PD NOV
+PY 2016
+VL 294
+IS 11
+BP 1857
+EP 1863
+DI 10.1007/s00396-016-3935-2
+PG 7
+WC Chemistry, Physical; Polymer Science
+SC Chemistry; Polymer Science
+GA EA1GD
+UT WOS:000386339600016
+DA 2020-04-21
+ER
+
+PT J
+AU Li, HZ
+   Gao, X
+   Luo, YW
+AF Li, Hongze
+   Gao, Xiang
+   Luo, Yingwu
+TI Multi-shape memory polymers achieved by the spatio-assembly of 3D
+   printable thermoplastic building blocks
+SO SOFT MATTER
+LA English
+DT Article
+ID GLASS-TRANSITION; TEMPERATURE
+AB Multi-shape memory polymers were prepared by the macroscale spatio-assembly of building blocks in this work. The building blocks were methyl acrylate-co-styrene (MA-co-St) copolymers, which have the St-block-(St-random-MA)-block-St tri-block chain sequence. This design ensures that their transition temperatures can be adjusted over a wide range by varying the composition of the middle block. The two St blocks at the chain ends can generate a crosslink network in the final device to achieve strong bonding force between building blocks and the shape memory capacity. Due to their thermoplastic properties, 3D printing was employed for the spatio-assembly to build devices. This method is capable of introducing many transition phases into one device and preparing complicated shapes via 3D printing. The device can perform a complex action via a series of shape changes. Besides, this method can avoid the difficult programing of a series of temporary shapes. The control of intermediate temporary shapes was realized via programing the shapes and locations of building blocks in the final device.
+C1 [Li, Hongze; Gao, Xiang; Luo, Yingwu] Zhejiang Univ, Coll Chem & Biol Engn, State Key Lab Chem Engn, 38 Zheda Rd, Hangzhou 310003, Zhejiang, Peoples R China.
+RP Gao, X (reprint author), Zhejiang Univ, Coll Chem & Biol Engn, State Key Lab Chem Engn, 38 Zheda Rd, Hangzhou 310003, Zhejiang, Peoples R China.
+EM gaox@zju.edu.cn
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [21374096, 21574115]
+FX The authors would like to thank the financial support from National
+   Natural Science Foundation of China (Grant no. 21374096 and 21574115).
+CR Behl M, 2007, MATER TODAY, V10, P20, DOI 10.1016/S1369-7021(07)70047-0
+   Behl M, 2010, J MATER CHEM, V20, P3335, DOI 10.1039/b922992b
+   Bellin I, 2006, P NATL ACAD SCI USA, V103, P18043, DOI 10.1073/pnas.0608586103
+   DiOrio AM, 2011, SOFT MATTER, V7, P68, DOI 10.1039/c0sm00487a
+   He ZW, 2011, ADV MATER, V23, P3192, DOI 10.1002/adma.201100646
+   Kratz K, 2012, ADV FUNCT MATER, V22, P3057, DOI 10.1002/adfm.201200211
+   Li G, 2012, J MATER CHEM, V22, P7692, DOI 10.1039/c2jm30848g
+   Li J, 2011, J MATER CHEM, V21, P12213, DOI 10.1039/c1jm12496j
+   Liu C, 2007, J MATER CHEM, V17, P1543, DOI 10.1039/b615954k
+   Liu Y, 2012, SOFT MATTER, V8, P1764, DOI 10.1039/c1sm06564e
+   Luo YW, 2013, ADV MATER, V25, P743, DOI 10.1002/adma.201202884
+   Pei ZQ, 2016, ADV MATER, V28, P156, DOI 10.1002/adma.201503789
+   Razzaq MY, 2013, ADV MATER, V25, P5514, DOI 10.1002/adma.201301521
+   Shao Y, 2012, MACROMOLECULES, V45, P1924, DOI 10.1021/ma202506b
+   Small W, 2010, J MATER CHEM, V20, P3356, DOI 10.1039/b923717h
+   Thill C, 2008, AERONAUT J, V112, P117, DOI 10.1017/S0001924000002062
+   Xie T, 2011, POLYMER, V52, P4985, DOI 10.1016/j.polymer.2011.08.003
+   Xie T, 2010, NATURE, V464, P267, DOI 10.1038/nature08863
+   Xu SH, 2013, POLYMER, V54, P1779, DOI 10.1016/j.polymer.2013.02.007
+   Yan K, 2015, MACROMOL RAPID COMM, V36, P1277, DOI 10.1002/marc.201500052
+   Zeng C, 2014, ACS APPL MATER INTER, V6, P2753, DOI 10.1021/am405287p
+   Zhang H, 2011, J BIOMAT SCI-POLYM E, V22, P845, DOI [10.1163/092050610X540495, 10.1039/c1jm14615g]
+   Zhao Q, 2015, PROG POLYM SCI, V49-50, P79, DOI 10.1016/j.progpolymsci.2015.04.001
+NR 23
+TC 16
+Z9 16
+U1 1
+U2 89
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1744-683X
+EI 1744-6848
+J9 SOFT MATTER
+JI Soft Matter
+PY 2016
+VL 12
+IS 13
+BP 3226
+EP 3233
+DI 10.1039/c6sm00185h
+PG 8
+WC Chemistry, Physical; Materials Science, Multidisciplinary; Physics,
+   Multidisciplinary; Polymer Science
+SC Chemistry; Materials Science; Physics; Polymer Science
+GA DH4ZS
+UT WOS:000372795100012
+PM 26924759
+DA 2020-04-21
+ER
+
+PT J
+AU Xie, LX
+   Lu, LP
+   Meng, L
+   Zheng, XF
+AF Xie, Li-Xia
+   Lu, Li-Ping
+   Meng, Lei
+   Zheng, Xian-Fu
+TI Synthesis, Crystal Structure, and Fluorescent Properties of a 2D
+   Zinc(II) Complex
+SO SYNTHESIS AND REACTIVITY IN INORGANIC METAL-ORGANIC AND NANO-METAL
+   CHEMISTRY
+LA English
+DT Article
+DE Zn metal ion; crystal structures; fluorescent properties
+ID METAL-ORGANIC FRAMEWORKS; COORDINATION POLYMERS
+AB The 2,2-biphenyl-4,4-dicarboxylate (H(2)bpy-4,4-dc) and 2,2-Bis(imidazol-1-ylmethyl)-biphenyl (bipb) have been selected as the bridging ligands. One zinc(II) MOF, [Zn(bpy-4,4-dc)(bipb)](n) has been successfully obtained by hydrothermal reaction and synthesis. The molecular structure has been elucidated by single-crystal X-ray diffraction. The complex possesses of 1D block chain [(bpy-4,4-dc)(2)(bibp)(2)Zn-4]. Taking advantage of the tetrahedral coordination preference of the Zn metal centers, the connected chains adopt a folding conformation to form a two-dimensional architecture. The complex was further characterized by IR spectroscopy, PXRD pattern, fluorescent spectra, and thermal stability measurements.
+C1 [Xie, Li-Xia; Meng, Lei; Zheng, Xian-Fu] Henan Agr Univ, Coll Sci, Zhengzhou 450002, Peoples R China.
+   [Lu, Li-Ping] Henan Coll Finance & Taxat, Dept Informat Engn, Zhengzhou, Peoples R China.
+RP Xie, LX (reprint author), Henan Agr Univ, Coll Sci, Zhengzhou 450002, Peoples R China.
+EM toxielix@163.com
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [21201057]; Education Departmaent of Henan Province
+   [2013GGJS-042]; Science and Technology Department of Henan Province
+   [132102310251]
+FX The authors gratefully acknowledge the financial support of the National
+   Natural Science Foundation of China (No. 21201057), the Education
+   Departmaent of Henan Province (No. 2013GGJS-042), and the Science and
+   Technology Department of Henan Province (No. 132102310251).
+CR [Anonymous], 1996, SMART SAINT AR DET C
+   Batten SR, 2009, COORDINATION POLYMERS: DESIGN, ANALYSIS AND APPLICATION, P1, DOI 10.1039/9781847558862
+   Blake AJ, 1999, COORDIN CHEM REV, V183, P117, DOI 10.1016/S0010-8545(98)00173-8
+   Bunzli JCG, 2010, CHEM REV, V110, P2729, DOI 10.1021/cr900362e
+   CARLUCCI L, 1995, ANGEW CHEM INT EDIT, V34, P1895, DOI 10.1002/anie.199518951
+   Cui YJ, 2012, CHEM REV, V112, P1126, DOI 10.1021/cr200101d
+   Dechambenoit P, 2011, CHEM SOC REV, V40, P3249, DOI 10.1039/c0cs00167h
+   Fang SM, 2011, CRYSTENGCOMM, V13, P6555, DOI 10.1039/c1ce05465a
+   Gatteschi D, 2006, MESOSCOPIC PHYS NANO, P1
+   Grummt UW, 2000, J PHYS ORG CHEM, V13, P112, DOI 10.1002/(SICI)1099-1395(200002)13:2<112::AID-POC218>3.0.CO;2-0
+   Gudbjartson H, 1999, J AM CHEM SOC, V121, P2599, DOI 10.1021/ja982577a
+   Hennigar TL, 1997, ANGEW CHEM INT EDIT, V36, P972, DOI 10.1002/anie.199709721
+   Holliday BJ, 2001, ANGEW CHEM INT EDIT, V40, P2022, DOI 10.1002/1521-3773(20010601)40:11<2022::AID-ANIE2022>3.0.CO;2-D
+   Kreno LE, 2012, CHEM REV, V112, P1105, DOI 10.1021/cr200324t
+   Kurmoo M, 2009, CHEM SOC REV, V38, P1353, DOI 10.1039/b804757j
+   Leininger S, 2000, CHEM REV, V100, P853, DOI 10.1021/cr9601324
+   Li JR, 2012, CHEM REV, V112, P869, DOI 10.1021/cr200190s
+   Li JR, 2009, CHEM SOC REV, V38, P1477, DOI 10.1039/b802426j
+   Long DL, 2002, CHEM-EUR J, V8, P2026, DOI 10.1002/1521-3765(20020503)8:9<2026::AID-CHEM2026>3.0.CO;2-8
+   Miller JS, 2011, CHEM SOC REV, V40, P3266, DOI 10.1039/c0cs00166j
+   O'Keeffe M, 2012, CHEM REV, V112, P675, DOI 10.1021/cr200205j
+   O'Keeffe M, 2008, ACCOUNTS CHEM RES, V41, P1782, DOI 10.1021/ar800124u
+   ROBSON R, 1992, SUPRAMOLECULAR ARCHI
+   Sheldrick G. M., 1997, SHELXTL V5 1 SOFTWAR
+   Su CY, 2002, ANGEW CHEM INT EDIT, V41, P3371, DOI 10.1002/1521-3773(20020916)41:18<3371::AID-ANIE3371>3.0.CO;2-4
+   Suh MP, 2012, CHEM REV, V112, P782, DOI 10.1021/cr200274s
+   Tong ML, 1999, ANGEW CHEM INT EDIT, V38, P2237, DOI 10.1002/(SICI)1521-3773(19990802)38:15<2237::AID-ANIE2237>3.3.CO;2-0
+   Wang XL, 2004, ANGEW CHEM INT EDIT, V43, P5036, DOI 10.1002/anie.200460758
+   Weng DF, 2011, CHEM SOC REV, V40, P3157, DOI 10.1039/c0cs00093k
+   Xie LX, 2007, INORG CHIM ACTA, V360, P2541, DOI 10.1016/j.ica.2006.12.030
+   Zhang XM, 2003, EUR J INORG CHEM, P138
+   Zhu HL, 2000, J CHEM SOC DALTON, P4182, DOI 10.1039/b005228k
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 93
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1553-3174
+EI 1553-3182
+J9 SYNTH REACT INORG M
+JI Synth. React. Inorg. Met.-Org. Nano-Metal Chem.
+PD JUL 2
+PY 2016
+VL 46
+IS 7
+BP 1081
+EP 1085
+DI 10.1080/15533174.2015.1004423
+PG 5
+WC Chemistry, Inorganic & Nuclear; Nanoscience & Nanotechnology
+SC Chemistry; Science & Technology - Other Topics
+GA DD9EH
+UT WOS:000370228000015
+DA 2020-04-21
+ER
+
+PT J
+AU Kraft, D
+AF Kraft, Daniel
+TI Difficulty control for blockchain-based consensus systems
+SO PEER-TO-PEER NETWORKING AND APPLICATIONS
+LA English
+DT Article
+DE Crypto-currency; Bitcoin mining; Namecoin; Nakamoto blockchain; Poisson
+   process
+AB Crypto-currencies like Bitcoin have recently attracted a lot of interest. A crucial ingredient into such systems is the "mining" of a Nakamoto blockchain. We model mining as a Poisson process with time-dependent intensity and use this model to derive predictions about block times for various hash-rate scenarios (exponentially rising hash rate being the most important). We also analyse Bitcoin's method to update the "network difficulty" as a mechanism to keep block times stable. Since it yields systematically too fast blocks for exponential hash-rate growth, we propose a new method to update difficulty. Our proposed method performs much better at ensuring stable average block times over longer periods of time, which we verify both in simulations of artificial growth scenarios and with real-world data. Besides Bitcoin itself, this has practical benefits particularly for systems like Namecoin. It can be used to make name expiration times more predictable, preventing accidental loss of names.
+C1 [Kraft, Daniel] Graz Univ, NAWI Graz, Inst Math, Univ Pl 3, A-8010 Graz, Austria.
+RP Kraft, D (reprint author), Graz Univ, NAWI Graz, Inst Math, Univ Pl 3, A-8010 Graz, Austria.
+EM daniel.kraft@uni-graz.at
+FU Austrian Science Fund (FWF)Austrian Science Fund (FWF); International
+   Research Training Group IGDK [1754]
+FX The author would like to thank the Bitcoin and Namecoin communities for
+   valuable input as well as pointing out that more stable name expiration
+   times are an interesting research question in the first place. This work
+   is supported by the Austrian Science Fund (FWF) and the International
+   Research Training Group IGDK 1754.
+CR [Anonymous], 1965, ELECT MAG
+   Antonopoulos A.M., 2014, MASTERING BITCOIN UN
+   Bahack L, 2013, ARXIV13127013
+   Chaum D., 1983, ADV CRYPTOLOGY CRYPT, V82, P199
+   COX DR, 1955, J ROY STAT SOC B, V17, P129
+   Decker C., 2013, P 13 IEEE INT C PEER
+   Eaton JW, 2009, GNU OCTAVE VERSION 3
+   EVANS LC, 1992, STUDIES ADV MATH
+   Eyal I, 2014, 18 INT C FIN CRYPT D
+   MARSAGLIA G, 2000, J STAT SOFTW, V5
+   Olver F.W.J., 2010, NIST HDB MATH FUNCTI
+   Rosenfeld M., 2014, ARXIV14022009
+   Ross S. M., 2013, SIMULATION
+   Shomer A., 2014, 2014139 CRYPT EPRINT
+   Swartz A., 2011, SQUARING TRIANGLE SE
+NR 15
+TC 54
+Z9 67
+U1 13
+U2 390
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1936-6442
+EI 1936-6450
+J9 PEER PEER NETW APPL
+JI Peer Peer Netw. Appl.
+PD MAR
+PY 2016
+VL 9
+IS 2
+BP 397
+EP 413
+DI 10.1007/s12083-015-0347-x
+PG 17
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA DG1FN
+UT WOS:000371811100011
+DA 2020-04-21
+ER
+
